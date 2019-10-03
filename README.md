@@ -10,17 +10,17 @@ The development of such tools could have some far reaching implications for our 
 
 09:00 -- Welcome & Primer (Monica Castelhano) <br/>
 09:30 -- Invited Speaker: TBD <br/>
-10:00 -- Spotlight poster presentations (2 min x 10 posters) <br/>
-10:30 -- Coffee break (10:45 Poster set-up) <br/>
-11:00 -- Poster session <br/>
+10:00 -- Spotlight Poster Presentations (2 min each) <br/>
+10:30 -- Coffee Break (10:45 Poster set-up) <br/>
+11:00 -- Poster Session <br/>
 12:00 -- Invited Speaker: TBD <br/>
-12:30 -- Lunch break <br/>
-14:00 -- Invited Speaker: Xi Wang <br/>
+12:30 -- Lunch Break <br/>
+14:00 -- Invited Speaker: Xi Wang - "The mental image revealed by gaze tracking" <br/>
 14:30 -- Invited Speaker: TBD <br/>
 15:00 -- Invited Speaker: TBD <br/>
-15:30 -- Coffee break <br/>
-16:00 -- Panel discussion with all the speakers <br/>
-16:45 -- Closing remarks (Zoya Bylinskii) <br/>
+15:30 -- Coffee Break <br/>
+16:00 -- Panel Discussion (all the invited speakers) <br/>
+16:45 -- Closing Remarks (Zoya Bylinskii) <br/>
 
 ## Organizers
 
