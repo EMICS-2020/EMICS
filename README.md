@@ -28,6 +28,9 @@ The development of such tools could have some far reaching implications for our 
 
 [**Zoya Bylinskii**](http://web.mit.edu/zoya/www/index.html) is a Research Scientist at Adobe Inc. She received a PhD in Electrical Engineering and Computer Science from MIT in September 2018 and an Hon. B.Sc. in Computer Science and Statistics from the University of Toronto in 2012. Zoya is a 2016 Adobe Research Fellow, a 2014-2016 NSERC Postgraduate Scholar, a 2013 Julie Payette Research Scholar, and a 2011 Anita Borg Scholar. Zoya works at the interface of human vision, computer vision, and human-computer interaction: building computational models of people's memory and attention, and applying the findings to graphic designs and data visualizations.
 
+[**Xi Wang**](http://cybertron.cg.tu-berlin.de/xiwang/) is a graduate student at the Technische Universität Berlin. Her research is broadly concerned with human perception and its applications in computer graphics. She has worked on projects studying vergence eye movements in 3D space, using mental imagery paradigm to study encoded visual content in (episodic) memory and measuring where humans look on real three-dimensional stimuli.  
+
+
 ## Call for Participation
 
 In this workshop we will explore how the connection between eye movements and cognitive processing can be used for applications. We invite papers on topics related to the use of eye movements (fixations, saccades, blinks, pupil dilations) for the analysis or prediction of cognitive processing.  This could include, but is not limited to, a viewer’s cognitive load or affective state, expertise or individual traits, the task type or difficulty, as well as their relationship to user interfaces broadly construed (driving, reading, problem solving, navigating, data analysis, coding, creating content, etc.). 
