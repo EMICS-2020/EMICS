@@ -23,8 +23,10 @@ The development of such tools could have some far reaching implications for our 
 16:45 -- Closing Remarks: Zoya Bylinskii (Adobe Research) <br/>
 
 ## Organizers
-
-[**Monica Castelhano**](https://qvcl.ca/) is an Associate Professor in Psychology at Queen’s University. Dr. Castelhano studies memory and attentional processes in complex visual environments in real and virtual settings using techniques such as VR, eye tracking and electroencephalogram (EEG).  Dr. Castelhano has been granted numerous awards including the Early Researcher Award from OSF and numerous grants from national and international funding agencies. She is currently an Associate Editor at the Quarterly Journal of Experimental Psychology.
+<table>
+  <td><img width="500px" src="https://emics-2020.github.io/CHI/assets/imgs/Monica_Castelhano.jpg" alt="Monica" /></td>
+  <td>[**Monica Castelhano**](https://qvcl.ca/) is an Associate Professor in Psychology at Queen’s University. Dr. Castelhano studies memory and attentional processes in complex visual environments in real and virtual settings using techniques such as VR, eye tracking and electroencephalogram (EEG).  Dr. Castelhano has been granted numerous awards including the Early Researcher Award from OSF and numerous grants from national and international funding agencies. She is currently an Associate Editor at the Quarterly Journal of Experimental Psychology.</td>
+<table>
 
 [**Zoya Bylinskii**](http://web.mit.edu/zoya/www/index.html) is a Research Scientist at Adobe Inc. She received a PhD in Electrical Engineering and Computer Science from MIT in September 2018 and an Hon. B.Sc. in Computer Science and Statistics from the University of Toronto in 2012. Zoya is a 2016 Adobe Research Fellow, a 2014-2016 NSERC Postgraduate Scholar, a 2013 Julie Payette Research Scholar, and a 2011 Anita Borg Scholar. Zoya works at the interface of human vision, computer vision, and human-computer interaction: building computational models of people's memory and attention, and applying the findings to graphic designs and data visualizations.
 
