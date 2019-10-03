@@ -8,7 +8,7 @@ The development of such tools could have some far reaching implications for our 
 
 ## Workshop Agenda
 
-09:00 -- Welcome & Primer (Monica Castelhano)
+09:00 -- Welcome & Primer (Monica Castelhano)\
 09:30 -- Invited Speaker 1 
 10:00 -- Spotlight poster presentations (2 min x 10 posters)
 10:30 -- Coffee break (10:45 Poster set-up)
