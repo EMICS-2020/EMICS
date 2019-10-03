@@ -8,19 +8,19 @@ The development of such tools could have some far reaching implications for our 
 
 ## Workshop Agenda
 
-09:00 -- Welcome & Primer (Monica Castelhano)
-09:30 -- Invited Speaker 1 
-10:00 -- Spotlight poster presentations (2 min x 10 posters)
-10:30 -- Coffee break (10:45 Poster set-up)
-11:00 -- Poster session
-12:00 -- Invited Speaker 2 
-12:30 -- Lunch break
-14:00 -- Invited Speaker 3 
-14:30 -- Invited Speaker 4 
-15:00 -- Invited Speaker 5 (Xi Wang)
-15:30 -- Coffee break
-16:00 -- Panel discussion with all the speakers
-16:45 -- Closing remarks (Zoya Bylinskii)
+09:00 -- Welcome & Primer (Monica Castelhano) <br/>
+09:30 -- Invited Speaker 1 <br/>
+10:00 -- Spotlight poster presentations (2 min x 10 posters) <br/>
+10:30 -- Coffee break (10:45 Poster set-up) <br/>
+11:00 -- Poster session <br/>
+12:00 -- Invited Speaker 2 <br/>
+12:30 -- Lunch break <br/>
+14:00 -- Invited Speaker 3 <br/>
+14:30 -- Invited Speaker 4 <br/>
+15:00 -- Invited Speaker 5 <br/>
+15:30 -- Coffee break <br/>
+16:00 -- Panel discussion with all the speakers <br/>
+16:45 -- Closing remarks (Zoya Bylinskii) <br/>
 
 ## Organizers
 
