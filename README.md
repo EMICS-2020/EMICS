@@ -24,7 +24,7 @@ The development of such tools could have some far reaching implications for our 
 
 ## Organizers
 <table>
-  <td><img width="500px" src="https://emics-2020.github.io/CHI/assets/imgs/Monica_Castelhano.jpg" alt="Monica" /></td>
+  <td><img width="500px" src="https://emics-2020.github.io/EMICS/assets/imgs/Monica_Castelhano.jpg" alt="Monica" /></td>
   <td>[**Monica Castelhano**](https://qvcl.ca/) is an Associate Professor in Psychology at Queen’s University. Dr. Castelhano studies memory and attentional processes in complex visual environments in real and virtual settings using techniques such as VR, eye tracking and electroencephalogram (EEG).  Dr. Castelhano has been granted numerous awards including the Early Researcher Award from OSF and numerous grants from national and international funding agencies. She is currently an Associate Editor at the Quarterly Journal of Experimental Psychology.</td>
 </table>
 
