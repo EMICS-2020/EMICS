@@ -1,5 +1,4 @@
-# emics
-Proposed CHI'20 workshop on "Eye Movements as an Interface to Cognitive State"
+# About
 
 Eye movement recording is quickly becoming ubiquitous across different interfaces.  The ability to draw inferences about processing from eye movements has long been used in academic settings.  Here, we will explore how the connection between eye movements and cognitive processing, as related to cognitive state, can be used in applications.
 The cognitive state of a user can inform not only whether or not they stay on task, but what type of thinking (explorative, expert, creative) is currently engaged. With the advent of AI in this field, eye movement recordings can be used to decode, guide and encourage different cognitive states. 
