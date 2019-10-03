@@ -5,3 +5,19 @@ The cognitive state of a user can inform not only whether or not they stay on ta
 
 This workshop will be used as a space in which researchers from across different disciplines (HCI, psychology, AI, cognitive neuroscience) can interact and strengthen this budding field.  The use of eye movements to decode cognitive states could be extended to adaptive interfaces that could use eye movements as feedback to guide attention, processing, learning and memory. 
 The development of such tools could have some far reaching implications for our society and launch a whole new way of human-computer interaction.
+
+## Workshop Agenda
+
+09:00 -- Welcome & Primer (Monica Castelhano)
+09:30 -- Invited Speaker 1 
+10:00 -- Spotlight poster presentations (2 min x 10 posters)
+10:30 -- Coffee break (10:45 Poster set-up)
+11:00 -- Poster session
+12:00 -- Invited Speaker 2 
+12:30 -- Lunch break
+14:00 -- Invited Speaker 3 
+14:30 -- Invited Speaker 4 
+15:00 -- Invited Speaker 5 (Xi Wang)
+15:30 -- Coffee break
+16:00 -- Panel discussion with all the speakers
+16:45 -- Closing remarks (Zoya Bylinskii)
