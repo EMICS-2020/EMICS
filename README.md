@@ -8,23 +8,25 @@ The development of such tools could have some far reaching implications for our 
 
 ## Workshop Agenda
 
-09:00 -- Welcome & Primer (Monica Castelhano) <br/>
+09:00 -- Welcome & Primer: Monica Castelhano (Queens University) <br/>
 09:30 -- Invited Speaker: TBD <br/>
 10:00 -- Spotlight Poster Presentations (2 min each) <br/>
 10:30 -- Coffee Break (10:45 Poster set-up) <br/>
 11:00 -- Poster Session <br/>
 12:00 -- Invited Speaker: TBD <br/>
 12:30 -- Lunch Break <br/>
-14:00 -- Invited Speaker: Xi Wang - "The mental image revealed by gaze tracking" <br/>
+14:00 -- Invited Speaker: Xi Wang (TU Berlin) - "The mental image revealed by gaze tracking" <br/>
 14:30 -- Invited Speaker: TBD <br/>
 15:00 -- Invited Speaker: TBD <br/>
 15:30 -- Coffee Break <br/>
 16:00 -- Panel Discussion (all the invited speakers) <br/>
-16:45 -- Closing Remarks (Zoya Bylinskii) <br/>
+16:45 -- Closing Remarks: Zoya Bylinskii (Adobe Research) <br/>
 
 ## Organizers
 
-**Monica Castelhano** is an Associate Professor in Psychology at Queen’s University. Dr. Castelhano studies memory and attentional processes in complex visual environments in real and virtual settings using techniques such as VR, eye tracking and electroencephalogram (EEG).  Dr. Castelhano has been granted numerous awards including the Early Researcher Award from OSF and numerous grants from national and international funding agencies. She is currently an Associate Editor at the Quarterly Journal of Experimental Psychology.
+[**Monica Castelhano**](https://qvcl.ca/) is an Associate Professor in Psychology at Queen’s University. Dr. Castelhano studies memory and attentional processes in complex visual environments in real and virtual settings using techniques such as VR, eye tracking and electroencephalogram (EEG).  Dr. Castelhano has been granted numerous awards including the Early Researcher Award from OSF and numerous grants from national and international funding agencies. She is currently an Associate Editor at the Quarterly Journal of Experimental Psychology.
+
+[**Zoya Bylinskii**](http://web.mit.edu/zoya/www/index.html) is a Research Scientist at Adobe Inc. She received a PhD in Electrical Engineering and Computer Science from MIT in September 2018 and an Hon. B.Sc. in Computer Science and Statistics from the University of Toronto in 2012. Zoya is a 2016 Adobe Research Fellow, a 2014-2016 NSERC Postgraduate Scholar, a 2013 Julie Payette Research Scholar, and a 2011 Anita Borg Scholar. Zoya works at the interface of human vision, computer vision, and human-computer interaction: building computational models of people's memory and attention, and applying the findings to graphic designs and data visualizations.
 
 ## Call for Participation
 
