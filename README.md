@@ -21,3 +21,7 @@ The development of such tools could have some far reaching implications for our 
 15:30 -- Coffee break
 16:00 -- Panel discussion with all the speakers
 16:45 -- Closing remarks (Zoya Bylinskii)
+
+## Organizers
+
+**Monica Castelhano** is an Associate Professor in Psychology at Queen’s University. Dr. Castelhano studies memory and attentional processes in complex visual environments in real and virtual settings using techniques such as VR, eye tracking and electroencephalogram (EEG).  Dr. Castelhano has been granted numerous awards including the Early Researcher Award from OSF and numerous grants from national and international funding agencies. She is currently an Associate Editor at the Quarterly Journal of Experimental Psychology.
