@@ -9,7 +9,7 @@ The development of such tools could have some far reaching implications for our 
 ## Workshop Agenda
 
 09:00 -- Welcome & Primer: Monica Castelhano (Queens University) <br/>
-09:30 -- Invited Speaker: TBD <br/>
+09:30 -- Invited Speaker: [Andrew Duchowski](http://andrewd.ces.clemson.edu/) (Clemson University) - "Eye Tracking Measures of Cognitive Load" <br/>
 10:00 -- Spotlight Poster Presentations (2 min each) <br/>
 10:30 -- Coffee Break (10:45 Poster set-up) <br/>
 11:00 -- Poster Session <br/>
