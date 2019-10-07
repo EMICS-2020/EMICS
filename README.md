@@ -10,13 +10,13 @@ The development of such tools could have some far reaching implications for our 
 
 09:00 -- Welcome & Primer: [Monica Castelhano](https://qvcl.ca/) (Queens University) <br/>
 09:30 -- Invited Speaker: [Andrew Duchowski](http://andrewd.ces.clemson.edu/) (Clemson University) - "Eye Tracking Measures of Cognitive Load" <br/>
-10:00 -- Spotlight Poster Presentations (2 min each) <br/>
+10:00 -- Invited Speaker: [Laura Matzen](https://neuroscience.sandia.gov/people/Matzen.html) (Sandia National Laboratories) <br/>
 10:30 -- Coffee Break (10:45 Poster set-up) <br/>
 11:00 -- Poster Session <br/>
-12:00 -- Invited Speaker: [Enkelejda Kasneci](http://www.ti.uni-tuebingen.de/Prof-Dr-Enkelejda-Kasneci.956.0.html) <br/>
+12:00 -- Invited Speaker: [Enkelejda Kasneci](http://www.ti.uni-tuebingen.de/Prof-Dr-Enkelejda-Kasneci.956.0.html) (University of Tübingen) <br/>
 12:30 -- Lunch Break <br/>
 14:00 -- Invited Speaker: [Xi Wang](http://cybertron.cg.tu-berlin.de/xiwang/) (TU Berlin) - "The mental image revealed by gaze tracking" <br/>
-14:30 -- Invited Speaker: [Alexandra Papoutsaki](http://www.cs.pomona.edu/~apapoutsaki/) <br/>
+14:30 -- Invited Speaker: [Alexandra Papoutsaki](http://www.cs.pomona.edu/~apapoutsaki/) (Pomona College) <br/>
 15:00 -- Invited Speaker: TBD <br/>
 15:30 -- Coffee Break <br/>
 16:00 -- Panel Discussion (all the invited speakers) <br/>
