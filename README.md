@@ -29,6 +29,8 @@ The development of such tools could have some far reaching implications for our 
 
 [**Xi Wang**](http://cybertron.cg.tu-berlin.de/xiwang/) is a graduate student at the Technische Universität Berlin. She has an M.Eng. degree from Shanghai Jiao Tong University and an M.Sc. degree in computer science from Technische Universität Berlin. Her research is broadly concerned with human perception and its applications in computer graphics. She has worked on projects studying vergence eye movements in 3D space, using mental imagery paradigm to study encoded visual content in (episodic) memory and measuring where humans look on real three-dimensional stimuli.  
 
+[**James Hillis**](https://www.linkedin.com/in/jameshillis/) is a Research Scientist at Facebook Reality Labs. He completed a Vision Science PhD in sensory cue combination at UC Berkeley in 2002 and post-doctoral research in color vision at the University of Pennsylvania before joining the faculty at the University of Glasgow in 2006. At the University of Glasgow he headed a lab studying socio-economic decision making and worked on an ESRC funded project on the cognitive neuroscience of social decision making. In 2013, he became a research scientist in the optical and display system division of 3M and in 2016 he joined Oculus Research which then became part of Facebook Reality Labs. James’ research focuses on the development of computational models of interactions between humans and their social and physical environments.
+
 
 ## Call for Participation
 
