@@ -13,10 +13,10 @@ The development of such tools could have some far reaching implications for our 
 10:00 -- Spotlight Poster Presentations (2 min each) <br/>
 10:30 -- Coffee Break (10:45 Poster set-up) <br/>
 11:00 -- Poster Session <br/>
-12:00 -- Invited Speaker: TBD <br/>
+12:00 -- Invited Speaker: [Enkelejda Kasneci](http://www.ti.uni-tuebingen.de/Prof-Dr-Enkelejda-Kasneci.956.0.html) <br/>
 12:30 -- Lunch Break <br/>
 14:00 -- Invited Speaker: [Xi Wang](http://cybertron.cg.tu-berlin.de/xiwang/) (TU Berlin) - "The mental image revealed by gaze tracking" <br/>
-14:30 -- Invited Speaker: TBD <br/>
+14:30 -- Invited Speaker: [Alexandra Papoutsaki](http://www.cs.pomona.edu/~apapoutsaki/) <br/>
 15:00 -- Invited Speaker: TBD <br/>
 15:30 -- Coffee Break <br/>
 16:00 -- Panel Discussion (all the invited speakers) <br/>
