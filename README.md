@@ -10,7 +10,7 @@ The development of such tools could have some far reaching implications for our 
 
 09:00 -- Welcome & Primer: [Monica Castelhano](https://qvcl.ca/) (Queens University) <br/>
 09:20 -- Invited Speaker: [Andrew Duchowski](http://andrewd.ces.clemson.edu/) (Clemson University) <br/>
-         "Eye tracking measures of cognitive load" <br/>
+         *"Eye tracking measures of cognitive load"* <br/>
 09:45 -- Invited Speaker: [Laura Matzen](https://neuroscience.sandia.gov/people/Matzen.html) (Sandia National Laboratories) <br/>
         *"Using eye movements to assess human comprehension of data visualizations"* <br/>
 10:10 -- Invited Speaker: [Oleg Komogortsev](https://userweb.cs.txstate.edu/~ok11/) (Texas State University) <br/>
@@ -19,11 +19,11 @@ The development of such tools could have some far reaching implications for our 
 12:05 -- Invited Speaker: [Enkelejda Kasneci](http://www.ti.uni-tuebingen.de/Prof-Dr-Enkelejda-Kasneci.956.0.html) (University of Tübingen) <br/>
 12:30 -- Lunch Break <br/>
 14:00 -- Invited Speaker: [Greg Zelinsky](https://you.stonybrook.edu/zelinsky/) (Stony Brook University) <br/>
-    "Identifying cognitive states from eye movements during web viewing" <br/>
+    *"Predicting goal-directed attention control using deep neural networks"* <br/>
 14:25 -- Invited Speaker: [Alexandra Papoutsaki](http://www.cs.pomona.edu/~apapoutsaki/) (Pomona College) <br/>
-    "Gaze sharing for remote collaboration" <br/>
+    *"Gaze sharing for remote collaboration"* <br/>
 14:50 -- Invited Speaker: [Xi Wang](http://cybertron.cg.tu-berlin.de/xiwang/) (TU Berlin) <br/>
-    "The mental image revealed by gaze tracking" <br/>
+    *"The mental image revealed by gaze tracking"* <br/>
 15:15 -- Invited Speaker: TBD <br/>
 15:40 -- Coffee Break <br/>
 16:00 -- Panel Discussion (all the invited speakers) <br/>
