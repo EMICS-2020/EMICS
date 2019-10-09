@@ -10,7 +10,7 @@ The development of such tools could have some far reaching implications for our 
 
 09:00 -- Welcome & Primer: [Monica Castelhano](https://qvcl.ca/) (Queens University) <br/>
 09:20 -- Invited Speaker: [Andrew Duchowski](http://andrewd.ces.clemson.edu/) (Clemson University) <br/>
-         *"Eye tracking measures of cognitive load"* <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;*"Eye tracking measures of cognitive load"* <br/>
 09:45 -- Invited Speaker: [Laura Matzen](https://neuroscience.sandia.gov/people/Matzen.html) (Sandia National Laboratories) <br/>
         *"Using eye movements to assess human comprehension of data visualizations"* <br/>
 10:10 -- Invited Speaker: [Oleg Komogortsev](https://userweb.cs.txstate.edu/~ok11/) (Texas State University) <br/>
