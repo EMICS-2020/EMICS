@@ -16,7 +16,7 @@ The development of such tools could have some far reaching implications for our 
 11:00 -- Poster Session <br/>
 12:05 -- Invited Speaker: [Enkelejda Kasneci](http://www.ti.uni-tuebingen.de/Prof-Dr-Enkelejda-Kasneci.956.0.html) (University of Tübingen) <br/>
 12:30 -- Lunch Break <br/>
-14:00 -- Invited Speaker: [Greg Zelinsky](https://you.stonybrook.edu/zelinsky/) - "Identifying cognitive states from eye movements during web viewing" <br/>
+14:00 -- Invited Speaker: [Greg Zelinsky](https://you.stonybrook.edu/zelinsky/) (Stony Brook University) - "Identifying cognitive states from eye movements during web viewing" <br/>
 14:25 -- Invited Speaker: [Alexandra Papoutsaki](http://www.cs.pomona.edu/~apapoutsaki/) (Pomona College) - "Gaze sharing for remote collaboration" <br/>
 14:50 -- Invited Speaker: [Xi Wang](http://cybertron.cg.tu-berlin.de/xiwang/) (TU Berlin) - "The mental image revealed by gaze tracking" <br/>
 15:15 -- Invited Speaker: TBD <br/>
