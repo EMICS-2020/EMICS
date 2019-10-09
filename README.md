@@ -9,18 +9,20 @@ The development of such tools could have some far reaching implications for our 
 ## Workshop Agenda
 
 09:00 -- Welcome & Primer: [Monica Castelhano](https://qvcl.ca/) (Queens University) <br/>
-09:30 -- Invited Speaker: [Andrew Duchowski](http://andrewd.ces.clemson.edu/) (Clemson University) - "Eye Tracking Measures of Cognitive Load" <br/>
-10:00 -- Invited Speaker: [Laura Matzen](https://neuroscience.sandia.gov/people/Matzen.html) (Sandia National Laboratories) <br/>
-10:30 -- Coffee Break (10:45 Poster set-up) <br/>
+09:20 -- Invited Speaker: [Andrew Duchowski](http://andrewd.ces.clemson.edu/) (Clemson University) - "Eye Tracking Measures of Cognitive Load" <br/>
+9:45 -- Invited Speaker: [Laura Matzen](https://neuroscience.sandia.gov/people/Matzen.html) (Sandia National Laboratories) <br/>
+10:10 -- Invited Speaker: [Oleg Komogortsev](https://userweb.cs.txstate.edu/~ok11/) (Texas State University)
+10:35 -- Coffee Break (10:45 Poster set-up) <br/>
 11:00 -- Poster Session <br/>
-12:00 -- Invited Speaker: [Enkelejda Kasneci](http://www.ti.uni-tuebingen.de/Prof-Dr-Enkelejda-Kasneci.956.0.html) (University of Tübingen) <br/>
+12:05 -- Invited Speaker: [Enkelejda Kasneci](http://www.ti.uni-tuebingen.de/Prof-Dr-Enkelejda-Kasneci.956.0.html) (University of Tübingen) <br/>
 12:30 -- Lunch Break <br/>
-14:00 -- Invited Speaker: [Xi Wang](http://cybertron.cg.tu-berlin.de/xiwang/) (TU Berlin) - "The mental image revealed by gaze tracking" <br/>
-14:30 -- Invited Speaker: [Alexandra Papoutsaki](http://www.cs.pomona.edu/~apapoutsaki/) (Pomona College) <br/>
-15:00 -- Invited Speaker: TBD <br/>
-15:30 -- Coffee Break <br/>
+14:00 -- Invited Speaker: [Greg Zelinsky](https://you.stonybrook.edu/zelinsky/) - "Identifying cognitive states from eye movements during web viewing" <br/>
+14:25 -- Invited Speaker: [Alexandra Papoutsaki](http://www.cs.pomona.edu/~apapoutsaki/) (Pomona College) - "Gaze sharing for remote collaboration" <br/>
+14:50 -- Invited Speaker: [Xi Wang](http://cybertron.cg.tu-berlin.de/xiwang/) (TU Berlin) - "The mental image revealed by gaze tracking" <br/>
+15:15 -- Invited Speaker: TBD <br/>
+15:40 -- Coffee Break <br/>
 16:00 -- Panel Discussion (all the invited speakers) <br/>
-16:45 -- Closing Remarks: [Zoya Bylinskii](http://web.mit.edu/zoya/www/index.html) (Adobe Research) <br/>
+16:50 -- Closing Remarks: [Zoya Bylinskii](http://web.mit.edu/zoya/www/index.html) (Adobe Research) <br/>
 
 ## Organizers
 [**Monica Castelhano**](https://qvcl.ca/) is an Associate Professor in Psychology at Queen’s University. Dr. Castelhano studies memory and attentional processes in complex visual environments in real and virtual settings using techniques such as VR, eye tracking and electroencephalogram (EEG).  Dr. Castelhano has been granted numerous awards including the Early Researcher Award from OSF and numerous grants from national and international funding agencies. She is currently an Associate Editor at the Quarterly Journal of Experimental Psychology.
