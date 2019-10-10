@@ -20,7 +20,7 @@ The development of such tools could have some far reaching implications for our 
 14:00 -- Invited Speaker: [Greg Zelinsky](https://you.stonybrook.edu/zelinsky/) (Stony Brook University) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Predicting goal-directed attention control using deep neural networks"* <br/>
 14:25 -- Invited Speaker: [Alexandra Papoutsaki](http://www.cs.pomona.edu/~apapoutsaki/) (Pomona College) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Gaze sharing for remote collaboration"* <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;*"Gaze sharing for remote collaboration"* <br/>
 14:50 -- Invited Speaker: [Xi Wang](http://cybertron.cg.tu-berlin.de/xiwang/) (TU Berlin) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"The mental image revealed by gaze tracking"* <br/>
 15:15 -- Invited Speaker: TBD <br/>
@@ -59,3 +59,8 @@ In this workshop we will explore how the connection between eye movements and co
 We invite submissions of a maximum of 4 pages, excluding references. The length of the submission should be commensurate with the contribution. Submissions will be sent out for review to 2 experts, who will rate the quality of the submission as well as the topic fit to the workshop. Submissions should follow the [ACM SIGCHI Extended Abstracts format](http://chi2019.acm.org/authors/chi-proceedings-format/). Information about where and when to submit the abstracts will be posted on https://emics-2020.github.io/CHI/. At least one author of each accepted paper must attend the workshop and all participants must register for both the workshop and for at least one day of the conference. 
 
 Accepted papers will be presented as posters at the workshop. 
+
+## Partners
+![Adobe](src="https://emics-2020.github.io/EMICS/assets/logos/Adobe.png")
+![FRL](src="https://emics-2020.github.io/EMICS/assets/logos/frl.png")
+
