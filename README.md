@@ -13,6 +13,7 @@ The development of such tools could have some far reaching implications for our 
 09:45 -- Invited Speaker: [Laura Matzen](https://neuroscience.sandia.gov/people/Matzen.html) (Sandia National Laboratories) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *"Using eye movements to assess human comprehension of data visualizations"* <br/>
 10:10 -- Invited Speaker: [Oleg Komogortsev](https://userweb.cs.txstate.edu/~ok11/) (Texas State University) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Virtual and Augmented Reality, Sensors, Eye Movements, and Their Impact on Healthcare and Security"* <br/>
 10:35 -- Coffee Break (10:45 Poster set-up) <br/>
 11:00 -- Poster Session <br/>
 12:05 -- Invited Speaker: [Enkelejda Kasneci](http://www.ti.uni-tuebingen.de/Prof-Dr-Enkelejda-Kasneci.956.0.html) (University of Tübingen) <br/>
@@ -33,7 +34,7 @@ The development of such tools could have some far reaching implications for our 
 
 **Laura Matzen** is a Principal Member of the Technical Staff in the Cognitive Science and Systems department at Sandia National Laboratories. Her primary research interests lie in using cognitive neuroscience methods to understand how humans process and remember information while performing complex reasoning tasks.
 
-**Oleg Komogortsev** is a tenured Associate Professor at Texas State University and a Visiting Scientist at Facebook Reality Labs. He conducts research in eye tracking with a focus on cyber security (biometrics), health assessment, human computer interaction, usability, and bioengineering.
+**Oleg Komogortsev** is currently a Professor of Computer Science at Texas State University. He conducts research in eye tracking with a focus on health assessment, cyber security (biometrics), bioengineering, human computer interaction, and usability. 
 
 **Enkelejda Kasneci** is a Junior Professor of Computer Science at the University of Tübingen, and her main research interests are applied machine learning, eye-tracking technology and applications, and driver assistance systems.
 
