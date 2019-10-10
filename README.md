@@ -8,7 +8,7 @@ The development of such tools could have some far reaching implications for our 
 
 ## Workshop Agenda
 <dl>
-<dt>09:20 -- Invited Speaker: [Andrew Duchowski](http://andrewd.ces.clemson.edu/) (Clemson University)</dt>
+09:20 -- Invited Speaker: [Andrew Duchowski](http://andrewd.ces.clemson.edu/) (Clemson University)<br/>
 <dd>*"Eye tracking measures of cognitive load"*</dd>
 </dl>
 09:00 -- Welcome & Primer: [Monica Castelhano](https://qvcl.ca/) (Queens University) <br/>
