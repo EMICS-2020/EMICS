@@ -61,6 +61,6 @@ We invite submissions of a maximum of 4 pages, excluding references. The length 
 Accepted papers will be presented as posters at the workshop. 
 
 ## Partners
-<img height="100" src="https://emics-2020.github.io/EMICS/assets/logos/Adobe.png">
+<img height="90" src="https://emics-2020.github.io/EMICS/assets/logos/Adobe.png">
 <img height="100" src="https://emics-2020.github.io/EMICS/assets/logos/frl.png">
 
