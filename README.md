@@ -7,8 +7,8 @@ This workshop will be used as a space in which researchers from across different
 The development of such tools could have some far reaching implications for our society and launch a whole new way of human-computer interaction.
 
 ## Workshop Agenda
-<dl>
 09:20 -- Invited Speaker: [Andrew Duchowski](http://andrewd.ces.clemson.edu/) (Clemson University)<br/>
+<dl>
 <dd>*"Eye tracking measures of cognitive load"*</dd>
 </dl>
 09:00 -- Welcome & Primer: [Monica Castelhano](https://qvcl.ca/) (Queens University) <br/>
