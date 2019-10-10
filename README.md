@@ -7,10 +7,6 @@ This workshop will be used as a space in which researchers from across different
 The development of such tools could have some far reaching implications for our society and launch a whole new way of human-computer interaction.
 
 ## Workshop Agenda
-09:20 -- Invited Speaker: [Andrew Duchowski](http://andrewd.ces.clemson.edu/) (Clemson University)<br/>
-<dl>
-<dd>*"Eye tracking measures of cognitive load"*</dd>
-</dl>
 09:00 -- Welcome & Primer: [Monica Castelhano](https://qvcl.ca/) (Queens University) <br/>
 09:20 -- Invited Speaker: [Andrew Duchowski](http://andrewd.ces.clemson.edu/) (Clemson University) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Eye tracking measures of cognitive load"* <br/>
@@ -24,7 +20,7 @@ The development of such tools could have some far reaching implications for our 
 14:00 -- Invited Speaker: [Greg Zelinsky](https://you.stonybrook.edu/zelinsky/) (Stony Brook University) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Predicting goal-directed attention control using deep neural networks"* <br/>
 14:25 -- Invited Speaker: [Alexandra Papoutsaki](http://www.cs.pomona.edu/~apapoutsaki/) (Pomona College) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;*"Gaze sharing for remote collaboration"* <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Gaze sharing for remote collaboration"* <br/>
 14:50 -- Invited Speaker: [Xi Wang](http://cybertron.cg.tu-berlin.de/xiwang/) (TU Berlin) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"The mental image revealed by gaze tracking"* <br/>
 15:15 -- Invited Speaker: TBD <br/>
