@@ -42,6 +42,9 @@ The development of such tools could have some far reaching implications for our 
 
 **Alexandra Papoutsaki** is an Assistant Professor of Computer Science at Pomona College. Her main research focuses on eye tracking and gaze sharing in the context of remote collaboration. She received her PhD from Brown University where she developed a new approach for webcam eye tracking in the browser.
 
+**Mary Hayhoe** is a Professor of Psychology at Universityof Texas Austin. Her work has made a number of highlyinnovative and important contributions to our understandingof visual sensation, perception and cognition.
+
+**Bonita Sharif** is an Assistant Professor in the Departmentof Computer Science and Engineering at University of Ne-braska. Her researchinterests are in eye tracking related to software engineering, empirical software engineering, emotional awareness,software traceability, and software visualization to supportmaintenance of large systems.
 
 ## Organizers
 [**Monica Castelhano**](https://qvcl.ca/) is an Associate Professor in Psychology at Queen’s University. Dr. Castelhano studies memory and attentional processes in complex visual environments in real and virtual settings using techniques such as VR, eye tracking and electroencephalogram (EEG).  Dr. Castelhano has been granted numerous awards including the Early Researcher Award from OSF and numerous grants from national and international funding agencies. She is currently an Associate Editor at the Quarterly Journal of Experimental Psychology.
