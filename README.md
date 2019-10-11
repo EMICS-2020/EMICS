@@ -24,7 +24,8 @@ The development of such tools could have some far reaching implications for our 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Gaze sharing for remote collaboration"* <br/>
 14:50 -- Invited Speaker: [Xi Wang](http://cybertron.cg.tu-berlin.de/xiwang/) (TU Berlin) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"The mental image revealed by gaze tracking"* <br/>
-15:15 -- Invited Speaker: TBD <br/>
+15:15 -- Invited Speaker: [Mary Hayhoe](http://www.cs.utexas.edu/~dana/vrlab/) (University of Texas) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Eye movements and sensory-motor decisions in natural behavior"* <br/>
 15:40 -- Coffee Break <br/>
 16:00 -- Panel Discussion (all the invited speakers) <br/>
 16:50 -- Closing Remarks: [Zoya Bylinskii](http://web.mit.edu/zoya/www/index.html) (Adobe Research) <br/>
@@ -42,9 +43,9 @@ The development of such tools could have some far reaching implications for our 
 
 **Alexandra Papoutsaki** is an Assistant Professor of Computer Science at Pomona College. Her main research focuses on eye tracking and gaze sharing in the context of remote collaboration. She received her PhD from Brown University where she developed a new approach for webcam eye tracking in the browser.
 
-**Mary Hayhoe** is a Professor of Psychology at Universityof Texas Austin. Her work has made a number of highlyinnovative and important contributions to our understandingof visual sensation, perception and cognition.
+**Mary Hayhoe** is a Professor of Psychology at University of Texas Austin. Her work has made a number of highly innovative and important contributions to our understanding of visual sensation, perception and cognition.
 
-**Bonita Sharif** is an Assistant Professor in the Departmentof Computer Science and Engineering at University of Ne-braska. Her researchinterests are in eye tracking related to software engineering, empirical software engineering, emotional awareness,software traceability, and software visualization to supportmaintenance of large systems.
+**Bonita Sharif** is an Assistant Professor in the Department of Computer Science and Engineering at University of Nebraska. Her research interests are in eye tracking related to software engineering, empirical software engineering, emotional awareness, software traceability, and software visualization to support maintenance of large systems.
 
 ## Organizers
 [**Monica Castelhano**](https://qvcl.ca/) is an Associate Professor in Psychology at Queen’s University. Dr. Castelhano studies memory and attentional processes in complex visual environments in real and virtual settings using techniques such as VR, eye tracking and electroencephalogram (EEG).  Dr. Castelhano has been granted numerous awards including the Early Researcher Award from OSF and numerous grants from national and international funding agencies. She is currently an Associate Editor at the Quarterly Journal of Experimental Psychology.
