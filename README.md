@@ -17,13 +17,14 @@ The development of such tools could have some far reaching implications for our 
 10:35 -- Coffee Break (10:45 Poster set-up) <br/>
 11:00 -- Poster Session <br/>
 12:05 -- Invited Speaker: [Enkelejda Kasneci](http://www.ti.uni-tuebingen.de/Prof-Dr-Enkelejda-Kasneci.956.0.html) (University of Tübingen) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"From gazing to perceiving"* <br/>
 12:30 -- Lunch Break <br/>
 14:00 -- Invited Speaker: [Greg Zelinsky](https://you.stonybrook.edu/zelinsky/) (Stony Brook University) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Predicting goal-directed attention control using deep neural networks"* <br/>
 14:25 -- Invited Speaker: [Alexandra Papoutsaki](http://www.cs.pomona.edu/~apapoutsaki/) (Pomona College) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Gaze sharing for remote collaboration"* <br/>
-14:50 -- Invited Speaker: [Xi Wang](http://cybertron.cg.tu-berlin.de/xiwang/) (TU Berlin) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"The mental image revealed by gaze tracking"* <br/>
+14:50 -- Invited Speaker: [Bonita Sharif](https://www.shbonita.me/) (University of Nebraska) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Eye tracking for reading and comprehension"* <br/>
 15:15 -- Invited Speaker: [Mary Hayhoe](http://www.cs.utexas.edu/~dana/vrlab/) (University of Texas) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Eye movements and sensory-motor decisions in natural behavior"* <br/>
 15:40 -- Coffee Break <br/>
