@@ -17,7 +17,7 @@ The development of such tools could have some far reaching implications for our 
 10:35 -- Coffee Break (10:45 Poster set-up) <br/>
 11:00 -- Poster Session <br/>
 12:05 -- Invited Speaker: [Enkelejda Kasneci](http://www.ti.uni-tuebingen.de/Prof-Dr-Enkelejda-Kasneci.956.0.html) (University of Tübingen) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"From gazing to perceiving"* <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Beyond Zero Order Metrics: Deep Learning based Scanpath Analytics for Cognitive State Recognition"* <br/>
 12:30 -- Lunch Break <br/>
 14:00 -- Invited Speaker: [Greg Zelinsky](https://you.stonybrook.edu/zelinsky/) (Stony Brook University) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Predicting goal-directed attention control using deep neural networks"* <br/>
