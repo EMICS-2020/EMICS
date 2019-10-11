@@ -32,21 +32,21 @@ The development of such tools could have some far reaching implications for our 
 16:50 -- Closing Remarks: [Zoya Bylinskii](http://web.mit.edu/zoya/www/index.html) (Adobe Research) <br/>
 
 ## About the Speakers
-**Andrew Duchowski** is a Professor in the School of Computing at Clemson University and his research and teaching interests include visual attention and perception, eye tracking, computer vision, and computer graphics.  
+[**Andrew Duchowski**](http://andrewd.ces.clemson.edu/) is a Professor in the School of Computing at Clemson University and his research and teaching interests include visual attention and perception, eye tracking, computer vision, and computer graphics.  
 
-**Laura Matzen** is a Principal Member of the Technical Staff in the Cognitive Science and Systems department at Sandia National Laboratories. Her primary research interests lie in using cognitive neuroscience methods to understand how humans process and remember information while performing complex reasoning tasks.
+[**Laura Matzen**](https://neuroscience.sandia.gov/people/Matzen.html) is a Principal Member of the Technical Staff in the Cognitive Science and Systems department at Sandia National Laboratories. Her primary research interests lie in using cognitive neuroscience methods to understand how humans process and remember information while performing complex reasoning tasks.
 
-**Oleg Komogortsev** is currently a Professor of Computer Science at Texas State University. He conducts research in eye tracking with a focus on health assessment, cyber security (biometrics), bioengineering, human computer interaction, and usability. 
+[**Oleg Komogortsev**](https://userweb.cs.txstate.edu/~ok11/) is currently a Professor of Computer Science at Texas State University. He conducts research in eye tracking with a focus on health assessment, cyber security (biometrics), bioengineering, human computer interaction, and usability. 
 
-**Enkelejda Kasneci** is a Junior Professor of Computer Science at the University of Tübingen, and her main research interests are applied machine learning, eye-tracking technology and applications, and driver assistance systems.
+[**Enkelejda Kasneci**](http://www.ti.uni-tuebingen.de/Prof-Dr-Enkelejda-Kasneci.956.0.html) is a Junior Professor of Computer Science at the University of Tübingen, and her main research interests are applied machine learning, eye-tracking technology and applications, and driver assistance systems.
 
-**Gregory Zelinsky** is a Professor of Cognitive Science at Stony Brook University. His  research attempts to integrate cognitive, computational, and neuroimaging techniques to better understand a broad range of visual cognitive behaviors, including visual search, object representation, working memory, and scene perception.
+[**Gregory Zelinsky**](https://you.stonybrook.edu/zelinsky/) is a Professor of Cognitive Science at Stony Brook University. His  research attempts to integrate cognitive, computational, and neuroimaging techniques to better understand a broad range of visual cognitive behaviors, including visual search, object representation, working memory, and scene perception.
 
-**Alexandra Papoutsaki** is an Assistant Professor of Computer Science at Pomona College. Her main research focuses on eye tracking and gaze sharing in the context of remote collaboration. She received her PhD from Brown University where she developed a new approach for webcam eye tracking in the browser.
+[**Alexandra Papoutsaki**](http://www.cs.pomona.edu/~apapoutsaki/) is an Assistant Professor of Computer Science at Pomona College. Her main research focuses on eye tracking and gaze sharing in the context of remote collaboration. She received her PhD from Brown University where she developed a new approach for webcam eye tracking in the browser.
 
-**Bonita Sharif** is an Assistant Professor in the Department of Computer Science and Engineering at University of Nebraska. Her research interests are in eye tracking related to software engineering, empirical software engineering, emotional awareness, software traceability, and software visualization to support maintenance of large systems.
+[**Bonita Sharif**](https://www.shbonita.me/) is an Assistant Professor in the Department of Computer Science and Engineering at University of Nebraska. Her research interests are in eye tracking related to software engineering, empirical software engineering, emotional awareness, software traceability, and software visualization to support maintenance of large systems.
 
-**Mary Hayhoe** is a Professor of Psychology at University of Texas Austin. Her work has made a number of highly innovative and important contributions to our understanding of visual sensation, perception and cognition.
+[**Mary Hayhoe**](http://www.cs.utexas.edu/~dana/vrlab/) is a Professor of Psychology at University of Texas Austin. Her work has made a number of highly innovative and important contributions to our understanding of visual sensation, perception and cognition.
 
 ## Organizers
 [**Monica Castelhano**](https://qvcl.ca/) is an Associate Professor in Psychology at Queen’s University. Dr. Castelhano studies memory and attentional processes in complex visual environments in real and virtual settings using techniques such as VR, eye tracking and electroencephalogram (EEG).  Dr. Castelhano has been granted numerous awards including the Early Researcher Award from OSF and numerous grants from national and international funding agencies. She is currently an Associate Editor at the Quarterly Journal of Experimental Psychology.
