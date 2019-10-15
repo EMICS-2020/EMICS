@@ -70,6 +70,8 @@ Accepted papers will be presented as posters at the workshop.
 
 E. Abdulin, **O. Komogortsev**. [User eye fatigue detection via eye movement behavior.](https://userweb.cs.txstate.edu/~ok11/papers_published/2015_CHI_Ab_Ko.pdf) CHI'EA (2015).
 
+N. Abid, J. Maletic, **B. Sharif**. [Using developer eye movements to externalize the mental model used in code summarization tasks](http://www.cs.kent.edu/~jmaletic/papers/ETRA19full.pdf) ETRA (2019).
+
 T. Appel, C. Scharinger, P. Gerjets, **E. Kasneci**. [Cross-subject workload classification using pupil-related measures](https://dl.acm.org/citation.cfm?id=3204531) ETRA (2018).
 
 N. Castner, **E. Kasneci**, T. Kübler, K. Scheiter, J. Richter, T. Eder, F. Hüttig, C. Keutel. [Scanpath comparison in medical image reading skills of dental students: distinguishing stages of expertise development.](https://dl.acm.org/citation.cfm?id=3204550) ETRA (2018).
@@ -92,9 +94,13 @@ D. Lohr, S.-H. Berndt, **O. Komogortsev**. [An implementation of eye movement-dr
 
 **A. Papoutsaki**, J. Laskey, J. Huang. [Searchgazer: Webcam eye tracking for remote studies of web search](https://par.nsf.gov/servlets/purl/10024075) CHIIR (2017).
 
+**B. Sharif**, M. Falcone, J. Maletic. [An eye-tracking study on the role of scan time in finding source code defects.](http://www.cs.kent.edu/~jmaletic/papers/ETRA12.pdf) ETRA (2012).
+
 S. Vitak, J. Ingram, **A. Duchowski**, S. Ellis, A. Gramopadhye. [Gaze-augmented think-aloud as an aid to learning](https://dl.acm.org/citation.cfm?id=2208710) CHI (2012).
 
 **X. Wang**, A. Ley, S. Koch, D. Lindlbauer, J. Hays, K. Holmqvist, M. Alexa. [The Mental Image Revealed by Gaze Tracking.](https://link.springer.com/article/10.3758/s13428-017-0860-3) CHI (2019).
+
+
 
 ## Partners
 <img height="100" src="https://emics-2020.github.io/EMICS/assets/logos/Adobe.png">
