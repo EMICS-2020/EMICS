@@ -76,6 +76,12 @@ T. Appel, C. Scharinger, P. Gerjets, **E. Kasneci**. [Cross-subject workload cla
 
 D. Ballard, **M. Hayhoe**. [Modelling the role of task in the control of gaze.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2856937/) Visual cognition (2009).
 
+S. Brennan, X. Chen, C. A Dickinson, M. Neider, **G. Zelinsky**. [Coordinating cognition: The costs and benefits of shared gaze during collaborative search.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.298.4432&rep=rep1&type=pdf) Cognition (2008).
+
+**Z. Bylinskii**, M. Borkin, N. Kim, H. Pfister, A. Oliva. [Eye fixation metrics for large scale evaluation and comparison of information visualizations](https://pdfs.semanticscholar.org/6708/9163a209c68318f17b25d744d680d73a7f80.pdf) Eye Tracking and Visualization (2017).
+
+**M. Castelhano**, M. Mack, J. Henderson. [Viewing task influences eye movement control during active scene perception.](https://iovs.arvojournals.org/article.aspx?articleid=2193534) Journal of vision (2009).
+
 N. Castner, **E. Kasneci**, T. Kübler, K. Scheiter, J. Richter, T. Eder, F. Hüttig, C. Keutel. [Scanpath comparison in medical image reading skills of dental students: distinguishing stages of expertise development.](https://dl.acm.org/citation.cfm?id=3204550) ETRA (2018).
 
 **A. Duchowski**, K. Krejtz, I. Krejtz, C. Biele, A. Niedzielska, P. Kiefer, M. Raubal, I. Giannopoulos. [The index of pupillary activity: measuring cognitive load vis-à-vis task difficulty with pupil oscillation.](https://par.nsf.gov/servlets/purl/10096514) CHI (2018).
@@ -104,13 +110,19 @@ D. Lohr, S.-H. Berndt, **O. Komogortsev**. [An implementation of eye movement-dr
 
 **A. Papoutsaki**, J. Laskey, J. Huang. [Searchgazer: Webcam eye tracking for remote studies of web search.](https://par.nsf.gov/servlets/purl/10024075) CHIIR (2017).
 
+K. Rayner, **M. Castelhano**, J. Yang. [Eye movements when looking at unusual/weird scenes: Are there cultural differences?] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2668126/). Journal of Experimental Psychology (2009).
+
 **B. Sharif**, M. Falcone, J. Maletic. [An eye-tracking study on the role of scan time in finding source code defects.](http://www.cs.kent.edu/~jmaletic/papers/ETRA12.pdf) ETRA (2012).
+
+A. Torralba, A. Oliva, **M. Castelhano**, J. Henderson. [Contextual guidance of eye movements and attention in real-world scenes: the role of global features in object search.](http://jhenderson.org/vclab/PDF_Pubs/Torralba_Oliva_Castelhano_Henderson_Psych_Review.pdf) Psychological review (2006).
 
 S. Vitak, J. Ingram, **A. Duchowski**, S. Ellis, A. Gramopadhye. [Gaze-augmented think-aloud as an aid to learning.](https://dl.acm.org/citation.cfm?id=2208710) CHI (2012).
 
+K. Yun, Y. Peng, D. Samaras, **G. Zelinsky**, T. Berg. [Exploring the role of gaze behavior and object detection in scene understanding.](https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00917/full?utm_source=newsletter&utm_medium=web&utm_campaign=Psychology-w4-2014) Frontiers in psychology (2013)
+
 **X. Wang**, A. Ley, S. Koch, D. Lindlbauer, J. Hays, K. Holmqvist, M. Alexa. [The Mental Image Revealed by Gaze Tracking.](https://link.springer.com/article/10.3758/s13428-017-0860-3) CHI (2019).
 
-
+**G. Zelinsky**, Y. Peng, D. Samaras. [Eye can read your mind: Decoding gaze fixations to reveal categorical search targets.](https://iovs.arvojournals.org/article.aspx?articleid=2193783) Journal of vision (2013).
 
 ## Partners
 <img height="100" src="https://emics-2020.github.io/EMICS/assets/logos/Adobe.png">
