@@ -70,9 +70,11 @@ Accepted papers will be presented as posters at the workshop.
 
 E. Abdulin, **O. Komogortsev**. [User eye fatigue detection via eye movement behavior.](https://userweb.cs.txstate.edu/~ok11/papers_published/2015_CHI_Ab_Ko.pdf) CHI'EA (2015).
 
-N. Abid, J. Maletic, **B. Sharif**. [Using developer eye movements to externalize the mental model used in code summarization tasks](http://www.cs.kent.edu/~jmaletic/papers/ETRA19full.pdf) ETRA (2019).
+N. Abid, J. Maletic, **B. Sharif**. [Using developer eye movements to externalize the mental model used in code summarization tasks.](http://www.cs.kent.edu/~jmaletic/papers/ETRA19full.pdf) ETRA (2019).
 
-T. Appel, C. Scharinger, P. Gerjets, **E. Kasneci**. [Cross-subject workload classification using pupil-related measures](https://dl.acm.org/citation.cfm?id=3204531) ETRA (2018).
+T. Appel, C. Scharinger, P. Gerjets, **E. Kasneci**. [Cross-subject workload classification using pupil-related measures.](https://dl.acm.org/citation.cfm?id=3204531) ETRA (2018).
+
+D. Ballard, **M. Hayhoe**. [Modelling the role of task in the control of gaze.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2856937/) Visual cognition (2009).
 
 N. Castner, **E. Kasneci**, T. Kübler, K. Scheiter, J. Richter, T. Eder, F. Hüttig, C. Keutel. [Scanpath comparison in medical image reading skills of dental students: distinguishing stages of expertise development.](https://dl.acm.org/citation.cfm?id=3204550) ETRA (2018).
 
@@ -82,21 +84,29 @@ C. Holland, **O. Komogortsev**, D. Tamir. [Identifying usability issues via algo
 
 R. Gergely, **A. Duchowski**, M. Pohl. [Designing online tests for a virtual learning environment - evaluation of visual behavior between tasks.](https://publik.tuwien.ac.at/files/PubDat_232487.pdf) International Conference on Human Behavior in Design (2014).
 
+**M. Hayhoe**. [Advances in relating eye movements and cognition.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.501.7665&rep=rep1&type=pdf) Infancy (2004).
+
+**M. Hayhoe**. [Vision and Action.](https://www.annualreviews.org/doi/abs/10.1146/annurev-vision-102016-061437) Annual Review of Vision Science (2017).
+
 **E. Kasneci**, G. Kasneci, T. Kübler, W. Rosenstiel. [Online recognition of fixations, saccades, and smooth pursuits for automated analysis of traffic hazard perception.](http://ti.uni-tuebingen.de/uploads/tx_timitarbeiter/Kasneci_et_al_Online_Recognition_Eye_Movements.pdf) Artificial neural networks (2015).
 
 P. Kiefer, I. Giannopoulos, M. Raubal, **A. Duchowski**. [Eye tracking for spatial research: Cognition, computation, challenges.](https://n.ethz.ch/~pekiefer/download/papers/kiefer2017scc_preprint.pdf) Spatial Cognition & Computation (2017)
 
+D. Kit, L. Katz, B. Sullivan, K. Snyder, D. Ballard, **M. Hayhoe**. [Eye movements, visual search and scene memory, in an immersive virtual environment.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094362) PLoS One (2015).
+
 G. Kütt, K. Lee, E. Hardacre, **A. Papoutsaki**. [Eye-Write: Gaze Sharing for Collaborative Writing.](https://dl.acm.org/citation.cfm?id=3300727) CHI (2019).
+
+M. Land, **M. Hayhoe**. [In what ways do eye movements contribute to everyday activities?](https://www.sciencedirect.com/science/article/pii/S004269890100102X) Vision research (2001).
 
 D. Lohr, S.-H. Berndt, **O. Komogortsev**. [An implementation of eye movement-driven biometrics in virtual reality.](https://par.nsf.gov/servlets/purl/10074023) ETRA (2018).
 
 **L. Matzen**, M. Haass, K. Divis, M. Stites. [Patterns of attention: How data visualizations are read.](https://www.osti.gov/servlets/purl/1425321) International Conference on Augmented Cognition (2017).
 
-**A. Papoutsaki**, J. Laskey, J. Huang. [Searchgazer: Webcam eye tracking for remote studies of web search](https://par.nsf.gov/servlets/purl/10024075) CHIIR (2017).
+**A. Papoutsaki**, J. Laskey, J. Huang. [Searchgazer: Webcam eye tracking for remote studies of web search.](https://par.nsf.gov/servlets/purl/10024075) CHIIR (2017).
 
 **B. Sharif**, M. Falcone, J. Maletic. [An eye-tracking study on the role of scan time in finding source code defects.](http://www.cs.kent.edu/~jmaletic/papers/ETRA12.pdf) ETRA (2012).
 
-S. Vitak, J. Ingram, **A. Duchowski**, S. Ellis, A. Gramopadhye. [Gaze-augmented think-aloud as an aid to learning](https://dl.acm.org/citation.cfm?id=2208710) CHI (2012).
+S. Vitak, J. Ingram, **A. Duchowski**, S. Ellis, A. Gramopadhye. [Gaze-augmented think-aloud as an aid to learning.](https://dl.acm.org/citation.cfm?id=2208710) CHI (2012).
 
 **X. Wang**, A. Ley, S. Koch, D. Lindlbauer, J. Hays, K. Holmqvist, M. Alexa. [The Mental Image Revealed by Gaze Tracking.](https://link.springer.com/article/10.3758/s13428-017-0860-3) CHI (2019).
 
