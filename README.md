@@ -110,7 +110,7 @@ D. Lohr, S.-H. Berndt, **O. Komogortsev**. [An implementation of eye movement-dr
 
 **A. Papoutsaki**, J. Laskey, J. Huang. [Searchgazer: Webcam eye tracking for remote studies of web search.](https://par.nsf.gov/servlets/purl/10024075) CHIIR (2017).
 
-K. Rayner, **M. Castelhano**, J. Yang. [Eye movements when looking at unusual/weird scenes: Are there cultural differences?] (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2668126/). Journal of Experimental Psychology (2009).
+K. Rayner, **M. Castelhano**, J. Yang. [Eye movements when looking at unusual/weird scenes: Are there cultural differences?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2668126/). Journal of Experimental Psychology (2009).
 
 **B. Sharif**, M. Falcone, J. Maletic. [An eye-tracking study on the role of scan time in finding source code defects.](http://www.cs.kent.edu/~jmaletic/papers/ETRA12.pdf) ETRA (2012).
 
