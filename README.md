@@ -66,6 +66,30 @@ We invite submissions of a maximum of 4 pages, excluding references. The length 
 
 Accepted papers will be presented as posters at the workshop. 
 
+## Related Papers
+
+E. Abdulin, **O. Komogortsev**. [User eye fatigue detection via eye movement behavior.](https://userweb.cs.txstate.edu/~ok11/papers_published/2015_CHI_Ab_Ko.pdf) CHI'EA (2015).
+
+**A. Duchowski**, K. Krejtz, I. Krejtz, C. Biele, A. Niedzielska, P. Kiefer, M. Raubal, I. Giannopoulos. [The index of pupillary activity: measuring cognitive load vis-à-vis task difficulty with pupil oscillation.](https://par.nsf.gov/servlets/purl/10096514) CHI (2018).
+
+C. Holland, **O. Komogortsev**, D. Tamir. [Identifying usability issues via algorithmic detection of excessive visual search.](https://www.researchgate.net/profile/Corey_Holland/publication/254005203_Identifying_Usability_Issues_via_Algorithmic_Detection_of_Excessive_Visual_Search/links/5712b44008ae4ef7452619d4.pdf) CHI (2012).
+
+R. Gergely, **A. Duchowski**, M. Pohl. [Designing online tests for a virtual learning environment - evaluation of visual behavior between tasks.](https://publik.tuwien.ac.at/files/PubDat_232487.pdf) International Conference on Human Behavior in Design (2014).
+
+P. Kiefer, I. Giannopoulos, M. Raubal, **A. Duchowski**. [Eye tracking for spatial research: Cognition, computation, challenges.](https://n.ethz.ch/~pekiefer/download/papers/kiefer2017scc_preprint.pdf) Spatial Cognition & Computation (2017)
+
+D. Lohr, S.-H. Berndt, **O. Komogortsev**. [An implementation of eye movement-driven biometrics in virtual reality.](https://par.nsf.gov/servlets/purl/10074023) ETRA (2018).
+
+**L. Matzen**, M. Haass, K. Divis, M. Stites. [Patterns of attention: How data visualizations are read.](https://www.osti.gov/servlets/purl/1425321) International Conference on Augmented Cognition (2017).
+
+S. Vitak, J. Ingram, **A. Duchowski**, S. Ellis, A. Gramopadhye. [Gaze-augmented think-aloud as an aid to learning](https://dl.acm.org/citation.cfm?id=2208710) CHI (2012).
+
+T Appel, C. Scharinger, P. Gerjets, **E. Kasneci**. [Cross-subject workload classification using pupil-related measures](https://dl.acm.org/citation.cfm?id=3204531) ETRA (2018).
+
+**E. Kasneci**, G. Kasneci, T. Kübler, W. Rosenstiel. [Online recognition of fixations, saccades, and smooth pursuits for automated analysis of traffic hazard perception.](http://ti.uni-tuebingen.de/uploads/tx_timitarbeiter/Kasneci_et_al_Online_Recognition_Eye_Movements.pdf) Artificial neural networks (2015).
+
+N. Castner, **E. Kasneci**, T. Kübler, K. Scheiter, J. Richter, T. Eder, F. Hüttig, C. Keutel. [Scanpath comparison in medical image reading skills of dental students: distinguishing stages of expertise development.](https://dl.acm.org/citation.cfm?id=3204550) ETRA (2018).
+
 ## Partners
 <img height="100" src="https://emics-2020.github.io/EMICS/assets/logos/Adobe.png">
 <img height="100" src="https://emics-2020.github.io/EMICS/assets/logos/frl.png">
