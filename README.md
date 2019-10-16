@@ -70,7 +70,7 @@ Accepted papers will be presented as posters at the workshop.
 
 E. Abdulin, **O. Komogortsev**. [User eye fatigue detection via eye movement behavior.](https://userweb.cs.txstate.edu/~ok11/papers_published/2015_CHI_Ab_Ko.pdf) CHI'EA (2015).
 
-J. Jacobs, **X Wang**, M. Alexa. [Keep It Simple: Depth-based Dynamic Adjustment of Rendering for Head-mounted Displays Decreases Visual Comfort](https://dl.acm.org/citation.cfm?id=3353902) TAP (2019).
+J. Jacobs, **X. Wang**, M. Alexa. [Keep It Simple: Depth-based Dynamic Adjustment of Rendering for Head-mounted Displays Decreases Visual Comfort.](https://dl.acm.org/citation.cfm?id=3353902) TAP (2019).
 
 N. Abid, J. Maletic, **B. Sharif**. [Using developer eye movements to externalize the mental model used in code summarization tasks.](http://www.cs.kent.edu/~jmaletic/papers/ETRA19full.pdf) ETRA (2019).
 
@@ -80,9 +80,9 @@ D. Ballard, **M. Hayhoe**. [Modelling the role of task in the control of gaze.](
 
 S. Brennan, X. Chen, C. A Dickinson, M. Neider, **G. Zelinsky**. [Coordinating cognition: The costs and benefits of shared gaze during collaborative search.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.298.4432&rep=rep1&type=pdf) Cognition (2008).
 
-**Z. Bylinskii**, M. Borkin, N. Kim, H. Pfister, A. Oliva. [Eye fixation metrics for large scale evaluation and comparison of information visualizations](https://pdfs.semanticscholar.org/6708/9163a209c68318f17b25d744d680d73a7f80.pdf) Eye Tracking and Visualization (2017).
+**Z. Bylinskii**, M. Borkin, N. Kim, H. Pfister, A. Oliva. [Eye fixation metrics for large scale evaluation and comparison of information visualizations.](https://pdfs.semanticscholar.org/6708/9163a209c68318f17b25d744d680d73a7f80.pdf) Eye Tracking and Visualization (2017).
 
-**Z. Bylinskii**, N. Kim, P. O'Donovan, S. Alsheikh, S. Madan, H. Pfister, F. Durand, B. Russell, A. Hertzmann. [Learning Visual Importance for Graphic Designs and Data Visualizations](https://dl.acm.org/citation.cfm?id=3126653) UIST (2017).
+**Z. Bylinskii**, N. Kim, P. O'Donovan, S. Alsheikh, S. Madan, H. Pfister, F. Durand, B. Russell, A. Hertzmann. [Learning Visual Importance for Graphic Designs and Data Visualizations.](https://dl.acm.org/citation.cfm?id=3126653) UIST (2017).
 
 **M. Castelhano**, M. Mack, J. Henderson. [Viewing task influences eye movement control during active scene perception.](https://iovs.arvojournals.org/article.aspx?articleid=2193534) Journal of vision (2009).
 
