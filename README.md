@@ -120,6 +120,8 @@ K. Rayner, **M. Castelhano**, J. Yang. [Eye movements when looking at unusual/we
 
 A. Torralba, A. Oliva, **M. Castelhano**, J. Henderson. [Contextual guidance of eye movements and attention in real-world scenes: the role of global features in object search.](http://jhenderson.org/vclab/PDF_Pubs/Torralba_Oliva_Castelhano_Henderson_Psych_Review.pdf) Psychological review (2006).
 
+O. Mercier, Y. Sulai, K. Mackenzie, M. Zannoli, **J. Hillis**, D. Nowrouzezahrai, D. Lanman. [Fast gaze-contingent optimal decompositions for multifocal displays.](https://dl.acm.org/citation.cfm?id=3130846) TOG (2017).
+
 S. Vitak, J. Ingram, **A. Duchowski**, S. Ellis, A. Gramopadhye. [Gaze-augmented think-aloud as an aid to learning.](https://dl.acm.org/citation.cfm?id=2208710) CHI (2012).
 
 K. Yun, Y. Peng, D. Samaras, **G. Zelinsky**, T. Berg. [Exploring the role of gaze behavior and object detection in scene understanding.](https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00917/full?utm_source=newsletter&utm_medium=web&utm_campaign=Psychology-w4-2014) Frontiers in psychology (2013)
