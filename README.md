@@ -7,7 +7,7 @@ This workshop will be used as a space in which researchers from across different
 The development of such tools could have some far reaching implications for our society and launch a whole new way of human-computer interaction.
 
 ## Workshop Agenda
-09:00 -- Welcome & Primer: [Monica Castelhano](https://qvcl.ca/) (Queens University) <br/>
+09:00 -- Welcome & Primer: [Monica Castelhano](https://qvcl.ca/) (Queen's University) <br/>
 09:20 -- Invited Speaker: [Andrew Duchowski](http://andrewd.ces.clemson.edu/) (Clemson University) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Eye tracking measures of cognitive load"* <br/>
 09:45 -- Invited Speaker: [Laura Matzen](https://neuroscience.sandia.gov/people/Matzen.html) (Sandia National Laboratories) <br/>
