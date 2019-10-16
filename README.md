@@ -9,9 +9,9 @@ The development of such tools could have some far reaching implications for our 
 ## Workshop Agenda
 09:00 -- Welcome & Primer: [Monica Castelhano](https://qvcl.ca/) (Queen's University) <br/>
 09:20 -- Invited Speaker: [Andrew Duchowski](http://andrewd.ces.clemson.edu/) (Clemson University) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Eye tracking measures of cognitive load"* <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Eye Tracking Measures of Cognitive Load"* <br/>
 09:45 -- Invited Speaker: [Laura Matzen](https://neuroscience.sandia.gov/people/Matzen.html) (Sandia National Laboratories) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *"Using eye movements to assess human comprehension of data visualizations"* <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *"Using Eye Movements to Assess Human Comprehension of Data Visualizations"* <br/>
 10:10 -- Invited Speaker: [Oleg Komogortsev](https://userweb.cs.txstate.edu/~ok11/) (Texas State University) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Virtual and Augmented Reality, Sensors, Eye Movements, and Their Impact on Healthcare and Security"* <br/>
 10:35 -- Coffee Break (10:45 Poster set-up) <br/>
@@ -20,13 +20,13 @@ The development of such tools could have some far reaching implications for our 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Beyond Zero Order Metrics: Deep Learning based Scanpath Analytics for Cognitive State Recognition"* <br/>
 12:30 -- Lunch Break <br/>
 14:00 -- Invited Speaker: [Greg Zelinsky](https://you.stonybrook.edu/zelinsky/) (Stony Brook University) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Predicting goal-directed attention control using deep neural networks"* <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Predicting Goal-directed Attention Control using Deep Neural Networks"* <br/>
 14:25 -- Invited Speaker: [Alexandra Papoutsaki](http://www.cs.pomona.edu/~apapoutsaki/) (Pomona College) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Gaze sharing for remote collaboration"* <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Gaze Sharing for Remote Collaboration"* <br/>
 14:50 -- Invited Speaker: [Bonita Sharif](https://www.shbonita.me/) (University of Nebraska) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Eye Tracking in Program Comprehension"* <br/>
 15:15 -- Invited Speaker: [Mary Hayhoe](http://www.cs.utexas.edu/~dana/vrlab/) (University of Texas) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Eye movements and sensory-motor decisions in natural behavior"* <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Eye Movements and Sensory-motor Decisions in Natural Behavior"* <br/>
 15:40 -- Coffee Break <br/>
 16:00 -- Panel Discussion (all the invited speakers) <br/>
 16:50 -- Closing Remarks: [Zoya Bylinskii](http://web.mit.edu/zoya/www/index.html) (Adobe Research) <br/>
