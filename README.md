@@ -70,7 +70,7 @@ Accepted papers will be presented as posters at the workshop.
 
 E. Abdulin, **O. Komogortsev**. [User eye fatigue detection via eye movement behavior.](https://userweb.cs.txstate.edu/~ok11/papers_published/2015_CHI_Ab_Ko.pdf) CHI'EA (2015).
 
-J. Jacobs, **X. Wang**, M. Alexa. [Keep It Simple: Depth-based Dynamic Adjustment of Rendering for Head-mounted Displays Decreases Visual Comfort.](https://dl.acm.org/citation.cfm?id=3353902) TAP (2019).
+J. Jacobs, **X. Wang**, M. Alexa. [Keep it simple: Depth-based dynamic adjustment of rendering for head-mounted displays decreases visual comfort.](https://dl.acm.org/citation.cfm?id=3353902) TAP (2019).
 
 N. Abid, J. Maletic, **B. Sharif**. [Using developer eye movements to externalize the mental model used in code summarization tasks.](http://www.cs.kent.edu/~jmaletic/papers/ETRA19full.pdf) ETRA (2019).
 
@@ -82,7 +82,7 @@ S. Brennan, X. Chen, C. A Dickinson, M. Neider, **G. Zelinsky**. [Coordinating c
 
 **Z. Bylinskii**, M. Borkin, N. Kim, H. Pfister, A. Oliva. [Eye fixation metrics for large scale evaluation and comparison of information visualizations.](https://pdfs.semanticscholar.org/6708/9163a209c68318f17b25d744d680d73a7f80.pdf) Eye Tracking and Visualization (2017).
 
-**Z. Bylinskii**, N. Kim, P. O'Donovan, S. Alsheikh, S. Madan, H. Pfister, F. Durand, B. Russell, A. Hertzmann. [Learning Visual Importance for Graphic Designs and Data Visualizations.](https://dl.acm.org/citation.cfm?id=3126653) UIST (2017).
+**Z. Bylinskii**, N. Kim, P. O'Donovan, S. Alsheikh, S. Madan, H. Pfister, F. Durand, B. Russell, A. Hertzmann. [Learning visual importance for graphic designs and data visualizations.](https://dl.acm.org/citation.cfm?id=3126653) UIST (2017).
 
 **M. Castelhano**, M. Mack, J. Henderson. [Viewing task influences eye movement control during active scene perception.](https://iovs.arvojournals.org/article.aspx?articleid=2193534) Journal of vision (2009).
 
@@ -96,7 +96,7 @@ R. Gergely, **A. Duchowski**, M. Pohl. [Designing online tests for a virtual lea
 
 **M. Hayhoe**. [Advances in relating eye movements and cognition.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.501.7665&rep=rep1&type=pdf) Infancy (2004).
 
-**M. Hayhoe**. [Vision and Action.](https://www.annualreviews.org/doi/abs/10.1146/annurev-vision-102016-061437) Annual Review of Vision Science (2017).
+**M. Hayhoe**. [Vision and action.](https://www.annualreviews.org/doi/abs/10.1146/annurev-vision-102016-061437) Annual Review of Vision Science (2017).
 
 **E. Kasneci**, G. Kasneci, T. Kübler, W. Rosenstiel. [Online recognition of fixations, saccades, and smooth pursuits for automated analysis of traffic hazard perception.](http://ti.uni-tuebingen.de/uploads/tx_timitarbeiter/Kasneci_et_al_Online_Recognition_Eye_Movements.pdf) Artificial neural networks (2015).
 
@@ -104,7 +104,7 @@ P. Kiefer, I. Giannopoulos, M. Raubal, **A. Duchowski**. [Eye tracking for spati
 
 D. Kit, L. Katz, B. Sullivan, K. Snyder, D. Ballard, **M. Hayhoe**. [Eye movements, visual search and scene memory, in an immersive virtual environment.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094362) PLoS One (2015).
 
-G. Kütt, K. Lee, E. Hardacre, **A. Papoutsaki**. [Eye-Write: Gaze Sharing for Collaborative Writing.](https://dl.acm.org/citation.cfm?id=3300727) CHI (2019).
+G. Kütt, K. Lee, E. Hardacre, **A. Papoutsaki**. [Eye-write: Gaze sharing for collaborative writing.](https://dl.acm.org/citation.cfm?id=3300727) CHI (2019).
 
 M. Land, **M. Hayhoe**. [In what ways do eye movements contribute to everyday activities?](https://www.sciencedirect.com/science/article/pii/S004269890100102X) Vision research (2001).
 
@@ -126,7 +126,7 @@ S. Vitak, J. Ingram, **A. Duchowski**, S. Ellis, A. Gramopadhye. [Gaze-augmented
 
 K. Yun, Y. Peng, D. Samaras, **G. Zelinsky**, T. Berg. [Exploring the role of gaze behavior and object detection in scene understanding.](https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00917/full?utm_source=newsletter&utm_medium=web&utm_campaign=Psychology-w4-2014) Frontiers in psychology (2013)
 
-**X. Wang**, A. Ley, S. Koch, D. Lindlbauer, J. Hays, K. Holmqvist, M. Alexa. [The Mental Image Revealed by Gaze Tracking.](https://dl.acm.org/citation.cfm?id=3300839) CHI (2019).
+**X. Wang**, A. Ley, S. Koch, D. Lindlbauer, J. Hays, K. Holmqvist, M. Alexa. [The mental image revealed by gaze tracking.](https://dl.acm.org/citation.cfm?id=3300839) CHI (2019).
 
 **G. Zelinsky**, Y. Peng, D. Samaras. [Eye can read your mind: Decoding gaze fixations to reveal categorical search targets.](https://iovs.arvojournals.org/article.aspx?articleid=2193783) Journal of vision (2013).
 
