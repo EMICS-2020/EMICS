@@ -120,7 +120,7 @@ S. Vitak, J. Ingram, **A. Duchowski**, S. Ellis, A. Gramopadhye. [Gaze-augmented
 
 K. Yun, Y. Peng, D. Samaras, **G. Zelinsky**, T. Berg. [Exploring the role of gaze behavior and object detection in scene understanding.](https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00917/full?utm_source=newsletter&utm_medium=web&utm_campaign=Psychology-w4-2014) Frontiers in psychology (2013)
 
-**X. Wang**, A. Ley, S. Koch, D. Lindlbauer, J. Hays, K. Holmqvist, M. Alexa. [The Mental Image Revealed by Gaze Tracking.](https://dl.acm.org/citation.cfm?id=3126653) CHI (2019).
+**X. Wang**, A. Ley, S. Koch, D. Lindlbauer, J. Hays, K. Holmqvist, M. Alexa. [The Mental Image Revealed by Gaze Tracking.](https://dl.acm.org/citation.cfm?id=3300839) CHI (2019).
 
 **G. Zelinsky**, Y. Peng, D. Samaras. [Eye can read your mind: Decoding gaze fixations to reveal categorical search targets.](https://iovs.arvojournals.org/article.aspx?articleid=2193783) Journal of vision (2013).
 
