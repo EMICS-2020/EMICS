@@ -7,14 +7,14 @@ This SIG meeting will be used as a space in which researchers from across differ
 The development of such tools could have some far reaching implications for our society and launch a whole new way of human-computer interaction.
 
 ## SIG Meeting Agenda
-To facilitate discussion, we will kick off the SIG with a panel of experts giving 5-7 minute lightning talks about applications of eye movements as an interface to cognitive state. This will lead into an open discussion among panelists and audience members. The purpose of the initial lightning talks is to seed the proceeding discussion with concrete ideas, and to ensure a diversity of views is consid-ered from the onset.
+To facilitate discussion, we will kick off the SIG with a panel of experts giving 5-7 minute lightning talks about applications of eye movements as an interface to cognitive state. 
 
 1. Welcome & Primer: [Monica Castelhano](https://qvcl.ca/) (Queen's University) <br/>
-2. Invited Panelist: [Andrew Duchowski](http://andrewd.ces.clemson.edu/) (Clemson University) <br/>
+2. Lighting Talk by Invited Panelist: [Andrew Duchowski](http://andrewd.ces.clemson.edu/) (Clemson University) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Eye Tracking Measures of Cognitive Load"* <br/>
-3. Invited Panelist: [Alexandra Papoutsaki](http://www.cs.pomona.edu/~apapoutsaki/) (Pomona College) <br/>
+3. Lighting Talk by Invited Panelist: [Alexandra Papoutsaki](http://www.cs.pomona.edu/~apapoutsaki/) (Pomona College) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Gaze Sharing for Remote Collaboration"* <br/>
-4. Invited Panelist: [Oleg Komogortsev](https://userweb.cs.txstate.edu/~ok11/) (Texas State University) <br/>
+4. Lighting Talk by Invited Panelist: [Oleg Komogortsev](https://userweb.cs.txstate.edu/~ok11/) (Texas State University) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Virtual and Augmented Reality, Sensors, Eye Movements, and Their Impact on Healthcare and Security"* <br/>
 5. Panel Discussion (all the invited panelists) <br/>
 6. Closing Remarks: [Zoya Bylinskii](http://web.mit.edu/zoya/www/index.html) (Adobe Research) <br/>
