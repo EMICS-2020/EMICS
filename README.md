@@ -9,15 +9,16 @@ The development of such tools could have some far reaching implications for our 
 ## SIG Meeting Agenda
 To facilitate discussion, we will kick off the SIG with a panel of experts giving 5-7 minute lightning talks about applications of eye movements as an interface to cognitive state. 
 
-1. Welcome & Primer: [Monica Castelhano](https://qvcl.ca/) (Queen's University) <br/>
-2. Lighting Talk by Invited Panelist: [Andrew Duchowski](http://andrewd.ces.clemson.edu/) (Clemson University) <br/>
+- Welcome & Primer: [Monica Castelhano](https://qvcl.ca/) (Queen's University) <br/>
+- Lighting Talks 
+  - Invited Panelist: [Andrew Duchowski](http://andrewd.ces.clemson.edu/) (Clemson University) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Eye Tracking Measures of Cognitive Load"* <br/>
-3. Lighting Talk by Invited Panelist: [Alexandra Papoutsaki](http://www.cs.pomona.edu/~apapoutsaki/) (Pomona College) <br/>
+  - Invited Panelist: [Alexandra Papoutsaki](http://www.cs.pomona.edu/~apapoutsaki/) (Pomona College) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Gaze Sharing for Remote Collaboration"* <br/>
-4. Lighting Talk by Invited Panelist: [Oleg Komogortsev](https://userweb.cs.txstate.edu/~ok11/) (Texas State University) <br/>
+  - Invited Panelist: [Oleg Komogortsev](https://userweb.cs.txstate.edu/~ok11/) (Texas State University) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Virtual and Augmented Reality, Sensors, Eye Movements, and Their Impact on Healthcare and Security"* <br/>
-5. Panel Discussion (all the invited panelists) <br/>
-6. Closing Remarks: [Zoya Bylinskii](http://web.mit.edu/zoya/www/index.html) (Adobe Research) <br/>
+- Panel Discussion (all the invited panelists) <br/>
+- Closing Remarks: [Zoya Bylinskii](http://web.mit.edu/zoya/www/index.html) (Adobe Research) <br/>
 
 ## About the Panelists
 [**Andrew Duchowski**](http://andrewd.ces.clemson.edu/) is a Professor in the School of Computing at Clemson University and his research and teaching interests include visual attention and perception, eye tracking, computer vision, and computer graphics.  
