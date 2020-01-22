@@ -66,7 +66,7 @@ N. Abid, J. Maletic, B. Sharif. [Using developer eye movements to externalize th
 
 T. Appel, C. Scharinger, P. Gerjets, E. Kasneci. [Cross-subject workload classification using pupil-related measures.](https://dl.acm.org/citation.cfm?id=3204531) ETRA (2018).
 
-D. Ballard, **M. Hayhoe**. [Modelling the role of task in the control of gaze.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2856937/) Visual cognition (2009).
+D. Ballard, M. Hayhoe. [Modelling the role of task in the control of gaze.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2856937/) Visual cognition (2009).
 
 S. Brennan, X. Chen, C. A Dickinson, M. Neider, G. Zelinsky. [Coordinating cognition: The costs and benefits of shared gaze during collaborative search.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.298.4432&rep=rep1&type=pdf) Cognition (2008).
 
