@@ -1,12 +1,11 @@
 ## About
 
-Eye movement recording is quickly becoming ubiquitous across different interfaces.  The ability to draw inferences about processing from eye movements has long been used in academic settings.  Here, we will explore how the connection between eye movements and cognitive processing, as related to cognitive state, can be used in applications.
+Eye movement recording is quickly becoming ubiquitous across different interfaces.  The ability to draw inferences about processing from eye movements has long been used in academic settings.  Here, we will explore how the connection between eye movements and cognitive processing can be used in applications.
 The cognitive state of a user can inform not only whether or not they stay on task, but what type of thinking (explorative, expert, creative) is currently engaged. With the advent of A.I. in this field, eye movement recordings can be used to decode, guide and encourage different cognitive states. 
 
-This SIG meeting will be used as a space in which researchers from across different disciplines (HCI, psychology, A.I., cognitive neuroscience) can interact and strengthen this budding field.  The use of eye movements to decode cognitive states could be extended to adaptive interfaces that could use eye movements as feedback to guide attention, processing, learning and memory. 
-The development of such tools could have some far reaching implications for our society and launch a whole new way of human-computer interaction.
+This SIG meeting will be used as a space in which researchers from different disciplines (HCI, psychology, A.I., cognitive neuroscience) can interact and strengthen this budding field.  The use of eye movements to decode cognitive states could be extended to adaptive interfaces that use eye movements as feedback to guide attention, processing, learning and memory. The development of such tools could have some far reaching implications for our society and launch a whole new form of human-computer interaction.
 
-## SIG Meeting Agenda
+## Meeting Agenda
 To facilitate discussion, we will kick off the SIG with a panel of experts giving 5-7 minute lightning talks about applications of eye movements as an interface to cognitive state. 
 
 - Welcome & Primer: [Monica Castelhano](https://qvcl.ca/) (Queen's University) <br/>
@@ -19,6 +18,25 @@ To facilitate discussion, we will kick off the SIG with a panel of experts givin
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Virtual and Augmented Reality, Sensors, Eye Movements, and Their Impact on Healthcare and Security"* <br/>
 - Panel Discussion (all the invited panelists) <br/>
 - Closing Remarks: [Zoya Bylinskii](http://web.mit.edu/zoya/www/index.html) (Adobe Research) <br/>
+
+## Context:
+
+The ability to leverage eye tracking data to infer perceptual and cognitive processes during activities such as reading, driving and medical image examinations, has long been used in academic settings. However, as eye tracking systems become ubiquitous across different interfaces (e.g. desktop, mobile and head-mounted displays), new opportunities arise for applying this knowledge to human-computer interaction. This SIG will be used to explore applications that can be made possible by connecting eye movements, cognitive processing, and cognitive state.
+
+The cognitive state of a user can inform not only whether or not they stay on task, but what type of thinking (explorative, expert, creative) is currently engaged. With the advent of A.I. in this field, eye movement recordings can be used to decode, guide and encourage different types of cognitive processing.
+
+At the same time, the use of eye tracking in HCI has been highly promising for many years, but progress has been slow. In Jacob and Karn's review of eye tracking in HCI and usability research, they state, "We see promising research work, but we have not yet seen wide use of these approaches in practice or in the marketplace" and it remains as true today as it was in 2003. 
+
+The present SIG meeting will be used as a space in which researchers from different disciplines (HCI, psychology, A.I., cognitive neuroscience) can interact and strengthen this budding field.  Eye movements can, and have been, used as an input modality on mobile and head-mounted displays; for instance, for text entry or search. However, the main focus of this SIG is on how eye movement patterns can be used to evaluate user intentions and task difficulty, by providing a window into the user's cognitive processing and state. The use of eye movements to decode cognitive states could be extended to adaptive interfaces that use, for instance, eye fixations as feedback to guide attention affect processing, and provide aids for learning and memory. The development of such tools could have some far reaching implications for our society and launch a new innovative approach to human-computer interaction.
+
+**Relevance:** With the increasing accessibility of eye tracking devices, the growing popularity of mobile applications and head-mounted interfaces, and the development of powerful A.I. algorithms, inferring cognitive states from eye movement recordings has become feasible across many scenarios. These advancements open the possibility of integrating users' cognitive processing into the design of interactive systems. Many studies have been conducted in psychology to understand the correspondence between eye movements and cognitive processing, however this connection has not yet been fully explored or implemented in HCI. So far it remains unclear how to create meaningful interactions that make full use of the information revealed by eye movements. A fundamental challenge lies in the generalizability of eye movement patterns across different tasks, users, and contexts. 
+With the growing interest in the inference of users' cognitive states and processing, we see an increased demand for bringing together the Cognitive Science and the HCI communities to share knowledge and explore the full potential of this intersection of research interests and its applications.
+
+## Discussion Questions:
+  - Which cognitive states can be most reliably and robustly inferred from eye movements in practice?
+  - Which applications of eye movements as an interface to cognitive state (EMICS) have already proven successful? 
+  - What challenges and limitations of current hardware, algorithms, etc. need to be addressed to facilitate future applications of EMICS?
+  - How can we best align the interests between academia and industry to solve these challenges? 
 
 ## About the Panelists
 [**Andrew Duchowski**](http://andrewd.ces.clemson.edu/) is a Professor in the School of Computing at Clemson University and his research and teaching interests include visual attention and perception, eye tracking, computer vision, and computer graphics.  
