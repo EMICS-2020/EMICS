@@ -6,7 +6,7 @@ The cognitive state of a user can inform not only whether or not they stay on ta
 This SIG meeting will be used as a space in which researchers from different disciplines (HCI, psychology, A.I., cognitive neuroscience) can interact and strengthen this budding field.  The use of eye movements to decode cognitive states could be extended to adaptive interfaces that use eye movements as feedback to guide attention, processing, learning and memory. The development of such tools could have some far reaching implications for our society and launch a whole new form of human-computer interaction.
 
 ## Meeting Agenda
-To facilitate discussion, we will kick off the SIG with a panel of experts giving 5-7 minute lightning talks about applications of eye movements as an interface to cognitive state. 
+To facilitate discussion, we will kick off the SIG with a panel of experts giving 5-minute lightning talks about various applications of eye movements as an interface to cognitive state. 
 
 - Welcome & Primer: [Monica Castelhano](https://qvcl.ca/) (Queen's University) <br/>
 - Lighting Talks 
