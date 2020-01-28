@@ -9,7 +9,7 @@ This SIG meeting will be used as a space in which researchers from different dis
 To facilitate discussion, we will kick off the SIG with a panel of experts giving 5-minute lightning talks about various applications of eye movements as an interface to cognitive state. 
 
 - Welcome & Primer: [Monica Castelhano](https://qvcl.ca/) (Queen's University) <br/>
-- Lighting Talks 
+- Lightning Talks 
   - Invited Panelist: [Andrew Duchowski](http://andrewd.ces.clemson.edu/) (Clemson University) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Eye Tracking Measures of Cognitive Load"* <br/>
   - Invited Panelist: [Alexandra Papoutsaki](http://www.cs.pomona.edu/~apapoutsaki/) (Pomona College) <br/>
