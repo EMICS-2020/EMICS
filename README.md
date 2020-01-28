@@ -88,7 +88,7 @@ M. Hayhoe. [Advances in relating eye movements and cognition.](http://citeseerx.
 
 M. Hayhoe. [Vision and action.](https://www.annualreviews.org/doi/abs/10.1146/annurev-vision-102016-061437) Annual Review of Vision Science (2017).
 
-E. Kasneci, G. Kasneci, T. Kübler, W. Rosenstiel. [Online recognition of fixations, saccades, and smooth pursuits for automated analysis of traffic hazard perception.](http://ti.uni-tuebingen.de/uploads/tx_timitarbeiter/Kasneci_et_al_Online_Recognition_Eye_Movements.pdf) Artificial neural networks (2015).
+E. Kasneci, G. Kasneci, T. Kübler, W. Rosenstiel. [Online recognition of fixations, saccades, and smooth pursuits for automated analysis of traffic hazard perception.](https://link.springer.com/chapter/10.1007/978-3-319-09903-3_20) Artificial neural networks (2015).
 
 P. Kiefer, I. Giannopoulos, M. Raubal, **A. Duchowski**. [Eye tracking for spatial research: Cognition, computation, challenges.](https://n.ethz.ch/~pekiefer/download/papers/kiefer2017scc_preprint.pdf) Spatial Cognition & Computation (2017)
 
