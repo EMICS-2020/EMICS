@@ -39,17 +39,23 @@ With the growing interest in the inference of users' cognitive states and proces
   - How can we best align the interests between academia and industry to solve these challenges? 
 
 ## About the Panelists
+<img height="300" src="https://emics-2020.github.io/EMICS/assets/imgs/Andrew_Duchowski.png">
+<img height="300" src="https://emics-2020.github.io/EMICS/assets/imgs/Alexandra_Papoutsaki.jpg">
+<img height="300" src="https://emics-2020.github.io/EMICS/assets/imgs/Oleg_Komogortsev.jpg">
+
 [**Andrew Duchowski**](http://andrewd.ces.clemson.edu/) is a Professor in the School of Computing at Clemson University and his research and teaching interests include visual attention and perception, eye tracking, computer vision, and computer graphics.  
 
 [**Alexandra Papoutsaki**](http://www.cs.pomona.edu/~apapoutsaki/) is an Assistant Professor of Computer Science at Pomona College. Her main research focuses on eye tracking and gaze sharing in the context of remote collaboration. She received her PhD from Brown University where she developed a new approach for webcam eye tracking in the browser.
 
 [**Oleg Komogortsev**](https://userweb.cs.txstate.edu/~ok11/) is currently a Professor of Computer Science at Texas State University. He conducts research in eye tracking with a focus on health assessment, cyber security (biometrics), bioengineering, human computer interaction, and usability. 
 
-<img height="100" src="https://emics-2020.github.io/EMICS/assets/imgs/Andrew_Duchowski.png">
-<img height="100" src="https://emics-2020.github.io/EMICS/assets/imgs/Alexandra_Papoutsaki.jpg">
-<img height="100" src="https://emics-2020.github.io/EMICS/assets/imgs/Oleg_Komogortsev.jpg">
-
 ## Organizers
+<img height="300" src="https://emics-2020.github.io/EMICS/assets/imgs/Monica_Castelhano.jpg">
+<img height="300" src="https://emics-2020.github.io/EMICS/assets/imgs/Zoya_Bylinskii.jpg">
+<img height="300" src="https://emics-2020.github.io/EMICS/assets/imgs/Xi_Wang.jpg">
+<img height="300" src="https://emics-2020.github.io/EMICS/assets/imgs/James_Hillis.jpeg">
+<img height="300" src="https://emics-2020.github.io/EMICS/assets/imgs/Andrew_Duchowski.png">
+
 [**Monica Castelhano**](https://qvcl.ca/) is an Associate Professor in Psychology at Queen’s University. Dr. Castelhano studies memory and attentional processes in complex visual environments in real and virtual settings using techniques such as VR, eye tracking and electroencephalogram (EEG).  Dr. Castelhano has been granted numerous awards including the Early Researcher Award from OSF and numerous grants from national and international funding agencies. She is currently an Associate Editor at the Quarterly Journal of Experimental Psychology.
 
 [**Zoya Bylinskii**](http://web.mit.edu/zoya/www/index.html) is a Research Scientist at Adobe Inc. She received a PhD in Electrical Engineering and Computer Science from MIT in September 2018 and an Hon. B.Sc. in Computer Science and Statistics from the University of Toronto in 2012. Zoya is a 2016 Adobe Research Fellow, a 2014-2016 NSERC Postgraduate Scholar, a 2013 Julie Payette Research Scholar, and a 2011 Anita Borg Scholar. Zoya works at the interface of human vision, computer vision, and human-computer interaction: building computational models of people's memory and attention, and applying the findings to graphic designs and data visualizations.
