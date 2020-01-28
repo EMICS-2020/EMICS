@@ -120,6 +120,9 @@ K. Yun, Y. Peng, D. Samaras, G. Zelinsky, T. Berg. [Exploring the role of gaze b
 
 G. Zelinsky, Y. Peng, D. Samaras. [Eye can read your mind: Decoding gaze fixations to reveal categorical search targets.](https://iovs.arvojournals.org/article.aspx?articleid=2193783) Journal of vision (2013).
 
+## Zotero Reference Group
+[A zotero reference group](https://www.zotero.org/groups/2437516/emics/items) is created. Please feel free to include relevant works on EMICS. 
+
 ## Partners
 <img height="100" src="https://emics-2020.github.io/EMICS/assets/logos/Adobe.png">
 <img height="100" src="https://emics-2020.github.io/EMICS/assets/logos/frl.png">
