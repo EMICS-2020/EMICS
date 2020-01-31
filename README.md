@@ -16,6 +16,8 @@ To facilitate discussion, we will kick off the SIG with a panel of experts givin
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Gaze Sharing for Remote Collaboration"* <br/>
   - Invited Panelist: [Oleg Komogortsev](https://userweb.cs.txstate.edu/~ok11/) (Texas State University) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Virtual and Augmented Reality, Sensors, Eye Movements, and Their Impact on Healthcare and Security"* <br/>
+  - Invited Panelist: [Tilman Dingler](http://www.tilmanification.com/) (University of Melbourne) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Alertness Measures and Modeling Circadian Rhythms Based on Eye Movements for Cognition-Aware Computing"* <br/>
 - Panel Discussion (all the invited panelists) <br/>
 - Closing Remarks: [Zoya Bylinskii](http://web.mit.edu/zoya/www/index.html) (Adobe Research) <br/>
 
@@ -42,12 +44,15 @@ With the growing interest in the inference of users' cognitive states and proces
 <img height="200" src="https://emics-2020.github.io/EMICS/assets/imgs/Andrew_Duchowski.png">
 <img height="200" src="https://emics-2020.github.io/EMICS/assets/imgs/Alexandra_Papoutsaki.jpg">
 <img height="200" src="https://emics-2020.github.io/EMICS/assets/imgs/Oleg_Komogortsev.jpg">
+<img height="200" src="https://emics-2020.github.io/EMICS/assets/imgs/Tilman_Dingler.jpg">
 
 [**Andrew Duchowski**](http://andrewd.ces.clemson.edu/) is a Professor in the School of Computing at Clemson University and his research and teaching interests include visual attention and perception, eye tracking, computer vision, and computer graphics.  
 
 [**Alexandra Papoutsaki**](http://www.cs.pomona.edu/~apapoutsaki/) is an Assistant Professor of Computer Science at Pomona College. Her main research focuses on eye tracking and gaze sharing in the context of remote collaboration. She received her PhD from Brown University where she developed a new approach for webcam eye tracking in the browser.
 
-[**Oleg Komogortsev**](https://userweb.cs.txstate.edu/~ok11/) is currently a Professor of Computer Science at Texas State University. He conducts research in eye tracking with a focus on health assessment, cyber security (biometrics), bioengineering, human computer interaction, and usability. 
+[**Oleg Komogortsev**](https://userweb.cs.txstate.edu/~ok11/) is currently a Professor of Computer Science at Texas State University. He conducts research in eye tracking with a focus on health assessment, cyber security (biometrics), bioengineering, human computer interaction, and usability.
+
+[**Tilman Dingler**](http://www.tilmanification.com/) is a Research Fellow and Associated Lecturer in the School of Computing and Information Systems at The University of Melbourne. His research focuses on systems that sense, model, and adapt to users' cognitive states to enable interfaces to support their users' information processing capabilities.
 
 ## Organizers
 <img height="100" src="https://emics-2020.github.io/EMICS/assets/imgs/Monica_Castelhano.jpg">
