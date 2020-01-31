@@ -19,7 +19,7 @@ To facilitate discussion, we will kick off the SIG with a panel of experts givin
   - Invited Panelist: [Tilman Dingler](http://www.tilmanification.com/) (University of Melbourne) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*"Alertness Measures and Modeling Circadian Rhythms Based on Eye Movements for Cognition-Aware Computing"* <br/>
 - Panel Discussion (all the invited panelists) <br/>
-- Closing Remarks: [Zoya Bylinskii](http://web.mit.edu/zoya/www/index.html) (Adobe Research) <br/>
+- Closing Remarks & Next Steps: [Zoya Bylinskii](http://web.mit.edu/zoya/www/index.html) (Adobe Research) <br/>
 
 ## Context:
 
