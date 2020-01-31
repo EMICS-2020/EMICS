@@ -41,10 +41,10 @@ With the growing interest in the inference of users' cognitive states and proces
   - How can we best align the interests between academia and industry to solve these challenges? 
 
 ## About the Panelists
-<img height="200" src="https://emics-2020.github.io/EMICS/assets/imgs/Andrew_Duchowski.png">
-<img height="200" src="https://emics-2020.github.io/EMICS/assets/imgs/Alexandra_Papoutsaki.jpg">
-<img height="200" src="https://emics-2020.github.io/EMICS/assets/imgs/Oleg_Komogortsev.jpg">
-<img height="200" src="https://emics-2020.github.io/EMICS/assets/imgs/Tilman_Dingler.jpg">
+<img height="150" src="https://emics-2020.github.io/EMICS/assets/imgs/Andrew_Duchowski.png">
+<img height="150" src="https://emics-2020.github.io/EMICS/assets/imgs/Alexandra_Papoutsaki.jpg">
+<img height="150" src="https://emics-2020.github.io/EMICS/assets/imgs/Oleg_Komogortsev.jpg">
+<img height="150" src="https://emics-2020.github.io/EMICS/assets/imgs/Tilman_Dingler.jpg">
 
 [**Andrew Duchowski**](http://andrewd.ces.clemson.edu/) is a Professor in the School of Computing at Clemson University and his research and teaching interests include visual attention and perception, eye tracking, computer vision, and computer graphics.  
 
