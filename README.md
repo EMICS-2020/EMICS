@@ -22,9 +22,8 @@ To facilitate discussion, we will kick off the SIG with a panel of experts givin
 - Closing Remarks & Next Steps: [Zoya Bylinskii](http://web.mit.edu/zoya/www/index.html) (Adobe Research) <br/>
 
 ## Join us in
-[<img height="150" alt="Slack group" src="https://emics-2020.github.io/EMICS/assets/logos/slack.png">](https://join.slack.com/t/emics-group/shared_invite/enQtOTMwOTM3NTMwNDUyLTZhMTcyODQ1NGRiZjNiOTEzYWI2N2FjOTQ1NGEyNGQxOWUxYmI1MzczOTkwZTI4OGMzZmYwMTU5ZWU2OGM4NmY)
-
-[<img height="150" alt="Zotero reference group" src="https://emics-2020.github.io/EMICS/assets/logos/zotero.png">](https://www.zotero.org/groups/2437516/emics/items)
+[<img height="70" alt="Slack group" src="https://emics-2020.github.io/EMICS/assets/logos/slack.png">](https://join.slack.com/t/emics-group/shared_invite/enQtOTMwOTM3NTMwNDUyLTZhMTcyODQ1NGRiZjNiOTEzYWI2N2FjOTQ1NGEyNGQxOWUxYmI1MzczOTkwZTI4OGMzZmYwMTU5ZWU2OGM4NmY)
+[<img height="70" alt="Zotero reference group" src="https://emics-2020.github.io/EMICS/assets/logos/zotero.png">](https://www.zotero.org/groups/2437516/emics/items)
 
 ## Context:
 
