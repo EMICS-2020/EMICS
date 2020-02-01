@@ -54,6 +54,9 @@ With the growing interest in the inference of users' cognitive states and proces
 
 [**Tilman Dingler**](http://www.tilmanification.com/) is a Research Fellow and Associated Lecturer in the School of Computing and Information Systems at The University of Melbourne. His research focuses on systems that sense, model, and adapt to users' cognitive states to enable interfaces to support their users' information processing capabilities.
 
+## Slack Group
+Join us in our [Slack group](http://emics-workspace.slack.com/).
+
 ## Organizers
 <img height="100" src="https://emics-2020.github.io/EMICS/assets/imgs/Monica_Castelhano.jpg">
 <img height="100" src="https://emics-2020.github.io/EMICS/assets/imgs/Zoya_Bylinskii.jpg">
@@ -70,6 +73,9 @@ With the growing interest in the inference of users' cognitive states and proces
 [**James Hillis**](https://www.linkedin.com/in/jameshillis/) is a Research Scientist at Facebook Reality Labs. He completed a Vision Science PhD in sensory cue combination at UC Berkeley in 2002 and post-doctoral research in color vision at the University of Pennsylvania before joining the faculty at the University of Glasgow in 2006. At the University of Glasgow he headed a lab studying socio-economic decision making and worked on an ESRC funded project on the cognitive neuroscience of social decision making. In 2013, he became a research scientist in the optical and display system division of 3M and in 2016 he joined Oculus Research which then became part of Facebook Reality Labs. James’ research focuses on the development of computational models of interactions between humans and their social and physical environments.
 
 [**Andrew Duchowski**](http://andrewd.ces.clemson.edu/) is a professor of Computer Science at Clemson University. He received his baccalaureate (1990) from Simon Fraser University, Burnaby, Canada, and doctorate (1997) from Texas A&M University, College Station, TX, both in Computer Science. His research and teaching interests include visual attention and perception, eye tracking, computer vision, and computer graphics. He is a noted research leader in the field of eye tracking, having produced a corpus of papers and a monograph related to eye tracking research, and has delivered courses and seminars on the subject at international conferences. He maintains Clemson's eye tracking laboratory, and teaches a regular course on eye tracking methodology attracting students from a variety of disciplines across campus.
+
+## Zotero Reference Group
+[A zotero reference group](https://www.zotero.org/groups/2437516/emics/items) is created. Please feel free to include relevant works on EMICS. 
 
 ## Related Papers
 
@@ -134,9 +140,6 @@ K. Yun, Y. Peng, D. Samaras, G. Zelinsky, T. Berg. [Exploring the role of gaze b
 **X. Wang**, A. Ley, S. Koch, D. Lindlbauer, J. Hays, K. Holmqvist, M. Alexa. [The mental image revealed by gaze tracking.](https://dl.acm.org/citation.cfm?id=3300839) CHI (2019).
 
 G. Zelinsky, Y. Peng, D. Samaras. [Eye can read your mind: Decoding gaze fixations to reveal categorical search targets.](https://iovs.arvojournals.org/article.aspx?articleid=2193783) Journal of vision (2013).
-
-## Zotero Reference Group
-[A zotero reference group](https://www.zotero.org/groups/2437516/emics/items) is created. Please feel free to include relevant works on EMICS. 
 
 ## Partners
 <img height="100" src="https://emics-2020.github.io/EMICS/assets/logos/Adobe.png">
