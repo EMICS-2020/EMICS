@@ -76,7 +76,7 @@ With the growing interest in the inference of users' cognitive states and proces
 [**Andrew Duchowski**](http://andrewd.ces.clemson.edu/) is a professor of Computer Science at Clemson University. He received his baccalaureate (1990) from Simon Fraser University, Burnaby, Canada, and doctorate (1997) from Texas A&M University, College Station, TX, both in Computer Science. His research and teaching interests include visual attention and perception, eye tracking, computer vision, and computer graphics. He is a noted research leader in the field of eye tracking, having produced a corpus of papers and a monograph related to eye tracking research, and has delivered courses and seminars on the subject at international conferences. He maintains Clemson's eye tracking laboratory, and teaches a regular course on eye tracking methodology attracting students from a variety of disciplines across campus.
 
 ## Related Papers
-Please feel free to include relevant works on EMICS to the [EMICS zotero reference group](https://www.zotero.org/groups/2437516/emics/items). 
+*Please feel free to include relevant works on EMICS to the [EMICS zotero reference group](https://www.zotero.org/groups/2437516/emics/items).* 
 
 E. Abdulin, **O. Komogortsev**. [User eye fatigue detection via eye movement behavior.](https://userweb.cs.txstate.edu/~ok11/papers_published/2015_CHI_Ab_Ko.pdf) CHI'EA (2015).
 
