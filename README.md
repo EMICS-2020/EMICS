@@ -21,8 +21,10 @@ To facilitate discussion, we will kick off the SIG with a panel of experts givin
 - Panel Discussion (all the invited panelists) <br/>
 - Closing Remarks & Next Steps: [Zoya Bylinskii](http://web.mit.edu/zoya/www/index.html) (Adobe Research) <br/>
 
-## Slack Group
-Join us in our [Slack group](https://join.slack.com/t/emics-group/shared_invite/enQtOTMwOTM3NTMwNDUyLTZhMTcyODQ1NGRiZjNiOTEzYWI2N2FjOTQ1NGEyNGQxOWUxYmI1MzczOTkwZTI4OGMzZmYwMTU5ZWU2OGM4NmY).
+## Join us in
+[![Slack group](https://emics-2020.github.io/EMICS/assets/logos/slack.png)](https://join.slack.com/t/emics-group/shared_invite/enQtOTMwOTM3NTMwNDUyLTZhMTcyODQ1NGRiZjNiOTEzYWI2N2FjOTQ1NGEyNGQxOWUxYmI1MzczOTkwZTI4OGMzZmYwMTU5ZWU2OGM4NmY)
+[![Zotero reference group](https://emics-2020.github.io/EMICS/assets/logos/zotero.png)](https://www.zotero.org/groups/2437516/emics/items)
+
 
 ## Context:
 
@@ -74,10 +76,8 @@ With the growing interest in the inference of users' cognitive states and proces
 
 [**Andrew Duchowski**](http://andrewd.ces.clemson.edu/) is a professor of Computer Science at Clemson University. He received his baccalaureate (1990) from Simon Fraser University, Burnaby, Canada, and doctorate (1997) from Texas A&M University, College Station, TX, both in Computer Science. His research and teaching interests include visual attention and perception, eye tracking, computer vision, and computer graphics. He is a noted research leader in the field of eye tracking, having produced a corpus of papers and a monograph related to eye tracking research, and has delivered courses and seminars on the subject at international conferences. He maintains Clemson's eye tracking laboratory, and teaches a regular course on eye tracking methodology attracting students from a variety of disciplines across campus.
 
-## Zotero Reference Group
-[A zotero reference group](https://www.zotero.org/groups/2437516/emics/items) is created. Please feel free to include relevant works on EMICS. 
-
 ## Related Papers
+Please feel free to include relevant works on EMICS to the [EMICS zotero reference group](https://www.zotero.org/groups/2437516/emics/items). 
 
 E. Abdulin, **O. Komogortsev**. [User eye fatigue detection via eye movement behavior.](https://userweb.cs.txstate.edu/~ok11/papers_published/2015_CHI_Ab_Ko.pdf) CHI'EA (2015).
 
@@ -140,6 +140,7 @@ K. Yun, Y. Peng, D. Samaras, G. Zelinsky, T. Berg. [Exploring the role of gaze b
 **X. Wang**, A. Ley, S. Koch, D. Lindlbauer, J. Hays, K. Holmqvist, M. Alexa. [The mental image revealed by gaze tracking.](https://dl.acm.org/citation.cfm?id=3300839) CHI (2019).
 
 G. Zelinsky, Y. Peng, D. Samaras. [Eye can read your mind: Decoding gaze fixations to reveal categorical search targets.](https://iovs.arvojournals.org/article.aspx?articleid=2193783) Journal of vision (2013).
+
 
 ## Partners
 <img height="100" src="https://emics-2020.github.io/EMICS/assets/logos/Adobe.png">
