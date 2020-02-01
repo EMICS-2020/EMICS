@@ -21,6 +21,9 @@ To facilitate discussion, we will kick off the SIG with a panel of experts givin
 - Panel Discussion (all the invited panelists) <br/>
 - Closing Remarks & Next Steps: [Zoya Bylinskii](http://web.mit.edu/zoya/www/index.html) (Adobe Research) <br/>
 
+## Slack Group
+Join us in our [Slack group](http://emics-workspace.slack.com/).
+
 ## Context:
 
 The ability to leverage eye tracking data to infer perceptual and cognitive processes during activities such as reading, driving and medical image examinations (Barnes 2008, Hayhoe 2017, Liversedge & Findlay 2000), has long been used in academic settings. However, as eye tracking systems become ubiquitous across different interfaces (e.g. desktop, mobile and head-mounted displays), new opportunities arise for applying this knowledge to human-computer interaction. This SIG will be used to explore applications that can be made possible by connecting eye movements, cognitive processing, and cognitive state (Duchowski 2002, Fridman 2018, Hergeth 2016, Poole & Ball 2006).
@@ -53,9 +56,6 @@ With the growing interest in the inference of users' cognitive states and proces
 [**Oleg Komogortsev**](https://userweb.cs.txstate.edu/~ok11/) is currently a Professor of Computer Science at Texas State University. He conducts research in eye tracking with a focus on health assessment, cyber security (biometrics), bioengineering, human computer interaction, and usability.
 
 [**Tilman Dingler**](http://www.tilmanification.com/) is a Research Fellow and Associated Lecturer in the School of Computing and Information Systems at The University of Melbourne. His research focuses on systems that sense, model, and adapt to users' cognitive states to enable interfaces to support their users' information processing capabilities.
-
-## Slack Group
-Join us in our [Slack group](http://emics-workspace.slack.com/).
 
 ## Organizers
 <img height="100" src="https://emics-2020.github.io/EMICS/assets/imgs/Monica_Castelhano.jpg">
