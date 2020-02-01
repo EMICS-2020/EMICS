@@ -22,7 +22,7 @@ To facilitate discussion, we will kick off the SIG with a panel of experts givin
 - Closing Remarks & Next Steps: [Zoya Bylinskii](http://web.mit.edu/zoya/www/index.html) (Adobe Research) <br/>
 
 ## Slack Group
-Join us in our [Slack group](http://emics-workspace.slack.com/).
+Join us in our [Slack group](https://join.slack.com/t/emics-group/shared_invite/enQtOTMwOTM3NTMwNDUyLTZhMTcyODQ1NGRiZjNiOTEzYWI2N2FjOTQ1NGEyNGQxOWUxYmI1MzczOTkwZTI4OGMzZmYwMTU5ZWU2OGM4NmY).
 
 ## Context:
 
